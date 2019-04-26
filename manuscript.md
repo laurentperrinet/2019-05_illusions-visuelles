@@ -34,9 +34,9 @@ website: https://laurentperrinet.github.io/
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/58392ba87162f64ba20d640262c329252c282820/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/485898a1856fe50c18eeb114b9a76487744f0edb/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@58392ba](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/58392ba87162f64ba20d640262c329252c282820)
+from [laurentperrinet/2019-05_illusions-visuelles@485898a](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/485898a1856fe50c18eeb114b9a76487744f0edb)
 on April 26, 2019.
 </em></small>
 
@@ -60,9 +60,7 @@ on April 26, 2019.
 
 ## Abstract {.page_break_before}
 
-TOTO
 Les illusions visuelles sont des créations d'artistes, de scientifiques et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des situations souvent incongrues, dans lesquelles l'eau remonte une cascade, les personnes volent dans les airs ou des serpents se mettent à tourner. Au-delà de leur indéniable coté ludique, ces illusions nous apprennent beaucoup sur le fonctionnement du cerveau, notamment quand celles-ci se transforment en hallucinations visuelles, dépassant ainsi les limites des capacités de notre perception. En tant que chercheur en Neurosciences à l'Institut de Neurosciences de la Timone à Marseille, je vous dévoilerai des aspects du fonctionnement du cerveau qui sont souvent méconnus. En particulier, nous verrons pourquoi un magicien peut tromper nos sens ou comment des objets peuvent voyager dans le temps. Surtout nous essaierons de comprendre le fonctionnement de notre perception visuelle sur les bases d'une théorie de la vision non pas comme une simple caméra qui enregistre des images mais comme un processus actif en relation avec le monde qui nous entoure.
-TOTO
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
