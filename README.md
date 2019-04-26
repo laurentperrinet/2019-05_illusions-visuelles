@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/gh-pages) branch hosts the contents of this directory at https://laurentperrinet.github.io/2019-05_illusions-visuelles/.
-The permalink for this webpage version is https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/537fc9f6cb6c2b767465d978f739f47b2add3fdf/.
+The permalink for this webpage version is https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/ff1325aad2185c815759176c453ebfee998a3e43/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/freeze/.
 
 ## Files
@@ -36,4 +36,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`537fc9f6cb6c2b767465d978f739f47b2add3fdf`](https://github.com/laurentperrinet/2019-05_illusions-visuelles/commit/537fc9f6cb6c2b767465d978f739f47b2add3fdf).
+[`ff1325aad2185c815759176c453ebfee998a3e43`](https://github.com/laurentperrinet/2019-05_illusions-visuelles/commit/ff1325aad2185c815759176c453ebfee998a3e43).
