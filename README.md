@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# Des illusions aux hallucinations visuelles: une porte sur la perception
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
