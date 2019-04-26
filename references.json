@@ -34,6 +34,40 @@
     "id": "VzERwUrh"
   },
   {
+    "publisher": "Elsevier BV",
+    "issue": "11",
+    "DOI": "10.1016/j.visres.2005.10.002",
+    "type": "article-journal",
+    "page": "1762-1776",
+    "source": "Crossref",
+    "title": "Ultra-rapid object detection with saccadic eye movements: Visual processing speed revisited",
+    "volume": "46",
+    "author": [
+      {
+        "given": "Holle",
+        "family": "Kirchner"
+      },
+      {
+        "given": "Simon J.",
+        "family": "Thorpe"
+      }
+    ],
+    "container-title": "Vision Research",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          5
+        ]
+      ]
+    },
+    "URL": "https://doi.org/d8gpjq",
+    "container-title-short": "Vision Research",
+    "PMID": "16289663",
+    "id": "QstYfgqz"
+  },
+  {
     "publisher": "Springer Nature",
     "issue": "5",
     "DOI": "10.1038/nrn.2018.20",
@@ -123,6 +157,52 @@
     "PMCID": "PMC1088430",
     "PMID": "11316482",
     "id": "1FZ2hkaS5"
+  },
+  {
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "1",
+    "DOI": "10.1371/journal.pcbi.1005068",
+    "type": "article-journal",
+    "page": "e1005068",
+    "source": "Crossref",
+    "title": "The Flash-Lag Effect as a Motion-Based Predictive Shift",
+    "volume": "13",
+    "author": [
+      {
+        "given": "Mina A.",
+        "family": "Khoei"
+      },
+      {
+        "given": "Guillaume S.",
+        "family": "Masson"
+      },
+      {
+        "given": "Laurent U.",
+        "family": "Perrinet"
+      }
+    ],
+    "container-title": "PLOS Computational Biology",
+    "language": "en",
+    "editor": [
+      {
+        "given": "Olaf",
+        "family": "Sporns"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          26
+        ]
+      ]
+    },
+    "URL": "https://doi.org/b2t5",
+    "container-title-short": "PLoS Comput Biol",
+    "PMCID": "PMC5268412",
+    "PMID": "28125585",
+    "id": "1BSbXPPDF"
   },
   {
     "publisher": "Public Library of Science (PLoS)",
@@ -222,5 +302,44 @@
     "container-title-short": "J. Neurosci.",
     "PMID": "30886010",
     "id": "cAAUyqwj"
+  },
+  {
+    "publisher": "Frontiers Media SA",
+    "DOI": "10.3389/fpsyg.2012.00151",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "Perceptions as Hypotheses: Saccades as Experiments",
+    "volume": "3",
+    "author": [
+      {
+        "given": "Karl",
+        "family": "Friston"
+      },
+      {
+        "given": "Rick A.",
+        "family": "Adams"
+      },
+      {
+        "given": "Laurent",
+        "family": "Perrinet"
+      },
+      {
+        "given": "Michael",
+        "family": "Breakspear"
+      }
+    ],
+    "container-title": "Frontiers in Psychology",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gdj5wg",
+    "container-title-short": "Front. Psychology",
+    "PMCID": "PMC3361132",
+    "PMID": "22654776",
+    "id": "pnsTp4JV"
   }
 ]
