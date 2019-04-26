@@ -30,9 +30,9 @@ website: https://laurentperrinet.github.io/
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/403d5bbe3fb342281141505d80b3d3cabe3c2981/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/e4ec69634320fc3dd9994aa87a11e86edd0a80d3/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@403d5bb](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/403d5bbe3fb342281141505d80b3d3cabe3c2981)
+from [laurentperrinet/2019-05_illusions-visuelles@e4ec696](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/e4ec69634320fc3dd9994aa87a11e86edd0a80d3)
 on April 26, 2019.
 </em></small>
 
@@ -391,6 +391,20 @@ Facilitation ou suppression qui peuvent constituer un corps elle a des calculs e
 Pour résumer, les illusions et hallucinations nous ouvre une porte sur les possibilités de la perception mais aussi sur une roue atteint Domi fonctionnel désert corticale. Baltic physically weary AsiansMais aussi sur une Neuro anatomie fonctionnelle désert corticale.
 La mobilisation notamment celle que nous proposons, offre une opportunité nouvelles d’appréhender ces mécanismes. Les outils théoriques permettant cette recherche existe mais non pour le moment pas été exploité dans leur plein potentiel. De tels outils seront essentiels à une meilleure compréhension du cerveau, de ses illusions mais aussi des hallucinations et de ce qui peut la provoquer.
 
+
+## References {.page_break_before}
+
+<!-- Explicitly insert bibliography here -->
+<div id="refs"></div>
+
+
+
+## Acknowledgements
+
+We'd like to thank the individuals, not listed as authors, who provided comments on
+<!--  [GitHub issues](https://github.com/search?l=&q=repo%3Agreenelab%2Fscihub+repo%3Agreenelab%2Fscihub-manuscript+repo%3Agreenelab%2Fscihub-browser-data+repo%3Adhimmel%2Fscopus+repo%3Agreenelab%2Flibrary-access&ref=advsearch&type=Issues&utf8=%E2%9C%93 "GitHub Issues in Project Repositories") or pull requests.
+Specifically, [Ross Mounce](https://github.com/rossmounce), [Richard Smith-Unna](https://github.com/blahah), [Guillaume Cabanac](https://github.com/gcabanac), and [Stuart Taylor](https://github.com/StuartCT) provided valuable input while the study was underway.
+In addition, we're grateful to GitHub for offering gratis Large File Storage as part of their education program. -->
 
 ## References {.page_break_before}
 
