@@ -1,7 +1,11 @@
 ---
 title: "Des illusions aux hallucinations visuelles: une porte sur la perception"
+keywords:
+- Vision
+- Active Inference
+- Topography
+- Spiking Neural Networks
 lang: fr-FR
-author: Laurent Perrinet
 author_info:
   -
     github: laurentperrinet
@@ -14,17 +18,9 @@ author_info:
       - Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
     funders: This work was supported by ANR project "Horizontal-V1" N°ANR-17-CE37-0006.
 
-date: 2019-04-01
-date-meta: 2019-04-01
-institute: Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université - Marseille, France
 subject: XXX
 description: XXX
 category: review
-keywords:
-    - Vision
-    - Active Inference
-    - Topography
-    - Spiking Neural Networks
 papersize: a4
 thanks: The author would like to thank Berk Mirza, Hugo Ladret and Manivannan Subramaniyan for careful reading and insightful remarks.
 website: https://laurentperrinet.github.io/
