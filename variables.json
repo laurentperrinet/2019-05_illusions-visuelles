@@ -1,0 +1,44 @@
+{
+  "date": "April 26, 2019",
+  "authors": [
+    {
+      "github": "laurentperrinet",
+      "name": "Laurent U Perrinet",
+      "initials": "LuP",
+      "orcid": "0000-0002-9536-010X",
+      "twitter": "laurentperrinet",
+      "email": "laurent.perrinet@univ-amu.fr",
+      "affiliations": [
+        "Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Universit\u00e9"
+      ],
+      "funders": "This work was supported by ANR project \"Horizontal-V1\" N\u00b0ANR-17-CE37-0006.",
+      "affiliation_numbers": [
+        1
+      ]
+    }
+  ],
+  "affiliations": [
+    {
+      "affiliation": "Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Universit\u00e9",
+      "affiliation_number": 1
+    }
+  ],
+  "ci_source": {
+    "repo_slug": "laurentperrinet/2019-05_illusions-visuelles",
+    "repo_owner": "laurentperrinet",
+    "repo_name": "2019-05_illusions-visuelles",
+    "commit": "3a42dd377818ad6ae86398828bee15cd393051ba"
+  },
+  "manuscript_stats": {
+    "reference_counts": {
+      "doi": 2,
+      "isbn": 1,
+      "pmcid": 1,
+      "pmid": 1,
+      "url": 2,
+      "wikidata": 1,
+      "total": 8
+    },
+    "word_count": 1363
+  }
+}
