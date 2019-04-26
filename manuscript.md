@@ -30,9 +30,9 @@ website: https://laurentperrinet.github.io/
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/68406219a9b9aa45b823856f08e737b3ed1ff438/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/ec71fd1f0a6d97e5900f9025f9381ab228c0f326/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@6840621](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/68406219a9b9aa45b823856f08e737b3ed1ff438)
+from [laurentperrinet/2019-05_illusions-visuelles@ec71fd1](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/ec71fd1f0a6d97e5900f9025f9381ab228c0f326)
 on April 26, 2019.
 </em></small>
 
@@ -93,7 +93,7 @@ Pour résumer, les illusions visuelles, en plus de leur côté ludique, nous ré
 Malgré la diversité des formes des illusions visuelles et sur la diversité des explications qu’on peut leur faire correspondre, existe-t-il des.com hein qui permettrait d’en avoir une compréhension unifiée ? Quelles pourraient être les liens profonds entre illusions visuelles avec des lunettes hallucinations aussi bien chez les sujets Neuro typique que dans des panneaux pathologie psychiatrique psychologique.
 
 
-## Perception visuelle et opérations prédictive
+## Perception visuelle et opérations prédictives
 
 Avant d’essayer de donner une réponse à ces questions, rappelons une contrainte fondamentale à laquelle notre cerveau est confronté : l’environnement et dynamique et notre cerveau est (relativement) lent pour traiter ces informations. En effet les travaux de Simon Thorpe à Toulouse au Cerco ont montré des capacités de catégorisons Des capacités de catégorisation d’image chez les primates humains ou non nous n’en humains qui peuvent aller jusqu’à environ 100 ms chez l’humain [@QstYfgqz] et 80 ms chez le singe. C’est remarquablement rapide mais relativement long si l'on considère une tâche simple d’interception d’un objet en mouvement. Considèrons par exemple un agent qui suit une balle de tennis lancée à une vitesse de 20 m/s à une distance de 1 m devant son regard. Au moment de passer dans l’axe de vision du joueur de tennis, la balle va être perçue en arrière de la trajectoire à cause du délai sensoriel. Plus précisément la balle est placé à l’instant où l’image est prise à environ 45° d’angle visuel en retard sur la position réelle actuelle de la balle. À noter que la position de la balle est sur l’axe de vision (telle celle figurée par cette position des yeux), mais que pour le système sensoriel, cette position au temps présent doit être anticipée. Notons aussi notons aussi que la position de la balle, dans cette représentation rétinienne, au moment où l’action sera réalisé (après le délai sensorimoteur total) pourra être estimé à partir de la continuité du mouvement de la balle. C’est-à-dire qu’elle sera encore environ à 45° d’angle visuel mais cette fois ci en avant de la trajectoire, dans son futur. Il semble incroyable que ce genre de voyage dans le temps puisse s’opérer dans notre cerveau, mais une simple illusion visuelle permet de mettre ces mécanismes en évidence.
 
