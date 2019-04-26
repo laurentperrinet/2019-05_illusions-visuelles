@@ -11,7 +11,7 @@
 This repository is the source code for a manuscript in preparation. Do not take
 it seriously (*at the moment*).
 
-## Manubot
+## To create this manuscipt, I used `Manubot`
 
 <!-- usage note: do not edit this section -->
 
