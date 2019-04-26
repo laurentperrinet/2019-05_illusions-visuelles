@@ -1,27 +1,33 @@
 ---
-title: "Manuscript Title"
-keywords:
-  - markdown
-  - publishing
-  - manubot
-lang: en-US
+title: "Des illusions aux hallucinations visuelles: une porte sur la perception"
+lang: fr-FR
+author: Laurent Perrinet
 author_info:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    github: laurentperrinet
+    name: Laurent U Perrinet
+    initials: LuP
+    orcid: 0000-0002-9536-010X
+    twitter: laurentperrinet
+    email: laurent.perrinet@univ-amu.fr
     affiliations:
-      - Department of Something, University of Whatever
-    funders: Grant XXXXXXXX
-  -
-    github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
+    funders: This work was supported by ANR project "Horizontal-V1" N°ANR-17-CE37-0006.
+
+date: 2019-04-01
+date-meta: 2019-04-01
+institute: Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université - Marseille, France
+subject: XXX
+description: XXX
+category: review
+keywords:
+    - Vision
+    - Active Inference
+    - Topography
+    - Spiking Neural Networks
+papersize: a4
+thanks: The author would like to thank Berk Mirza, Hugo Ladret and Manivannan Subramaniyan for careful reading and insightful remarks.
+website: https://laurentperrinet.github.io/
+source: https://github.com/laurentperrinet/2019_illusions-visuelles
+
+summary: "Les objectifs sont : – mieux comprendre la fonction de la perception visuelle en explorant certaines limites ; – mieux comprendre l’importance de l’aspect dynamique de la perception ; – mieux comprendre le rôle de l’action dans la perception."
