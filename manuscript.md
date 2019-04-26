@@ -34,9 +34,9 @@ website: https://laurentperrinet.github.io/
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/3a42dd377818ad6ae86398828bee15cd393051ba/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/4e1b34692bbf04a5b722cb9fff3cb1d925b28e5c/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@3a42dd3](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/3a42dd377818ad6ae86398828bee15cd393051ba)
+from [laurentperrinet/2019-05_illusions-visuelles@4e1b346](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/4e1b34692bbf04a5b722cb9fff3cb1d925b28e5c)
 on April 26, 2019.
 </em></small>
 
@@ -324,6 +324,40 @@ useful for *important information* - [manubot.org](https://manubot.org/)
 <i class="fas fa-ban fa-lg"></i> **Light Red Banner**<br>
 useful for *warnings* - [manubot.org](https://manubot.org/)
 ]{.banner .lightred}
+
+
+Nous allons ici montrer comment les limites de la perception permettent et peuvent nous aider à mieux comprendre le fonctionnement du cerveau et de ses pathologies.
+En partant des illusions visuelles, nous allons ensuite explorer différentes hypothèses pour comprendre ses illusions, mais aussi pour aborder une Neuro anatomie fonctionnelle des hallucinations et allusion illusions visuelles.
+
+## Illusion visuelle et hallucinations
+
+
+
+L’étymologie du mot illusion réfère à la tromperie et nous permet de définir les illusions visuelles comme une stimulation visuelle qui induit une perception décalée par rapport à la réalité physique entre parenthèses le stimulus proximal).
+Dans l’illusion classique dit de ring par exemple, deux lignes parallèles placés sur un faisceau de ligne deux lignes convergente semble courbé comme si le centre de l’image c’était gonflé par rapport à sa périphérie.
+Cette illusion est stable même si l’on prend une règle pour vérifier physiquement le parallélisme des lignes (ou simplement en enlevant les lignes fuyante).
+Aussi, il n’est pas possible de ne pas la percevoir.
+Ainsi, pour cette
+Ainsi, pour cette illusion comme pour une grande variété d’autres illusions visuelles statique ou dynamique ou sur d’autres modalités comme le toucher, les illusions visuelles Marc tout d’abord par ce caractère quasi universelle et intuitif c’est-à-dire sans qu’il faille expliquer un mode d’emploi pour les illusions.
+
+À ce titre, une illusion et remarques Cable à bien
+À ce titre, une illusion particulière est remarquable à bien des égards. En effet, de nombreuses désillusions comme le cube de Necker sont Multi stable, dans le sens où la perception peut alterner autour de plusieurs interprétations possibles de la même image. Dans le cas de #LaRobe,NousAvonsUneImageQuiALePouvoirDeDiviserUnePopulationEntreDesPerceptionsAlternative.
+Nous avons une image qui a le pouvoir de diviser une population entre des perceptions alternative.
+Au lieu d’être créé par des scientifiques cette illusion à émerger à partir d’une simple photo prise lors de la préparation d’une cérémonie de mariage. Posté sur les réseaux sociaux, cette photo a eu un destin fulgurant et mondiale grâce
+Grâce a l’ambiguïté sur la couleur de la robe. Ainsi si je vous demande de donner vous-même votre avis pensez-vous qu’elle est blanche et or ou alors qu’elle est bleu avec des bandes noires ? Même si le débat fait toujours rage, les explications scientifiques (article et session spéciale) convergent sur une perception de la couleur qui est modifié par le contexte au niveau de Will do licks to guestroom vos de l’explication.
+En effet notre système visuel doit pouvoir identifier la couleur d’un objet (par exemple pour évaluer la maturité d’un fruit comme une balade) quelque soit les conditions lumineuses, un matin le midi avec une lumière crue ou le crépuscule avec une lumière orangée du soir. Ici le fond et sur
+Ici le fond est surexposée et rend cette interprétation ambiguë et deux heures près interprétations sont possibles pour cette image comme illustré dans la figure de droite.
+Je peux vous dévoiler que sur un échantillon représentatif une courte majorité voilà robe bleue et que les femmes attendent à plutôt préféré la voir blanche avec des bandes dorées. Un aspect remarquable de cette illusion et d’une part sa stabilité sa stabilité et d’autres par la difficulté de changer d’après d’interprétation c’est-à-dire de passer une couleur bleue à une perception d’une couleur blanche. Cette illusion est à mes yeux d’autant plus puissante car elle met en évidence que les images sont en train d’interpréter par notre système visuel, mais aussi apporter ce message universel une propriété de nos fonctions Catives et de pouvoir interpréter interpréter la même objet physique de différentes façons et donc de réconcilier des groupes humains qui peuvent avoir des façons contrasté de voirDes objets physiques qui sont identiques.
+Pour reprendre le célèbre proverbe on pourrait dire que« l’illusion est humaine »
+
+Pour aller plus loin, il est intéressé intéressant de considérer cette image prise en 1971 par la sonde viking d’une partie de la surface de la planète Mars.
+L’image est relativement flou « les points noirs sont des erreurs de mesure » mais l’on distingue très clairement un visage de type humain comme une sculpture géante laisser là par une civilisation extraterrestre.
+Quelques 20 ans plus tard, de nouvelles images ont été réalisés par de nouvelles sondes spatiales et montre aussi une forme de visage.
+Mais une fois la résolution de l’image affiner les détails du relief révèle qu’il n’y a pas physiquement de sculpture de ce type mais seulement un simple rocher. C’est un cas de paralysie Dolly : quelque chose est perçu alors qu’il est physiquement absent. De la même façon, on peut voir un cheval courir dans les nuages, ou le visage du Christ dans un poste, le constat est le même : le système visuel et en particulier la perception qui en découlent non seulement interprète les images, mais sur
+, Mais surtout, il ne peut pas faire autrement que de générer une interprétation à partir d’images même si elles ne font pas a priori sens. Dans ce genre d’illusion on se rapproche donc d’une hallucination, qui peut être définie comme une perception sans objet.
+
+Pour résumer, les illusions visuelles, en plus de leur côté ludique, nous révèle des caractéristiques essentielles de notre perception visuelle temps sur les caractéristiques universel que les variabilité inters et Intras individuel.
+Malgré la diversité des formes des illusions visuelles et sur la diversité des explications qu’on peut leur faire correspondre, existe-t-il des.com hein qui permettrait d’en avoir une compréhension unifiée ? Quelles pourraient être les liens profonds entre illusions visuelles avec des lunettes hallucinations aussi bien chez les sujets Neuro typique que dans des panneaux pathologie psychiatrique psychologique.
 
 
 ## References {.page_break_before}
