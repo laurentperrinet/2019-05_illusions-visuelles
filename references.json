@@ -32,5 +32,58 @@
     "abstract": "Convolutional Neural Networks (CNNs) are the state-of-the-art algorithms used\nin computer vision. However, these models often suffer from the lack of\ninterpretability of their information transformation process. To address this\nproblem, we introduce a novel model called Sparse Deep Predictive Coding\n(SDPC). In a biologically realistic manner, SDPC mimics how the brain is\nefficiently representing visual information. This model complements the\nhierarchical convolutional layers found in CNNs with the feed-forward and\nfeed-back update scheme described in the Predictive Coding (PC) theory and\nfound in the architecture of the mammalian visual system. We experimentally\ndemonstrate on two databases that the SDPC model extracts qualitatively\nmeaningful features. These features, besides being similar to some of the\nbiological Receptive Fields of the visual cortex, also represent hierarchically\nindependent components of the image that are crucial to describe it in a\ngeneric manner. For the first time, the SDPC model demonstrates a meaningful\nrepresentation of features within the hierarchical generative model and of the\ndecision-making process leading to a specific prediction. A quantitative\nanalysis reveals that the features extracted by the SDPC model encode the input\nimage into a representation that is both easily classifiable and robust to\nnoise.",
     "type": "report",
     "id": "VzERwUrh"
+  },
+  {
+    "publisher": "Society for Neuroscience",
+    "DOI": "10.1523/jneurosci.2792-18.2019",
+    "type": "article-journal",
+    "page": "2792-18",
+    "source": "Crossref",
+    "title": "Suppressive traveling waves shape representations of illusory motion in primary visual cortex of awake primate",
+    "author": [
+      {
+        "given": "S.",
+        "family": "Chemla"
+      },
+      {
+        "given": "A.",
+        "family": "Reynaud"
+      },
+      {
+        "given": "M.",
+        "family": "di Volo"
+      },
+      {
+        "given": "Y.",
+        "family": "Zerlaut"
+      },
+      {
+        "given": "L.",
+        "family": "Perrinet"
+      },
+      {
+        "given": "A.",
+        "family": "Destexhe"
+      },
+      {
+        "given": "F.",
+        "family": "Chavane"
+      }
+    ],
+    "container-title": "The Journal of Neuroscience",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          18
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gfw8hr",
+    "container-title-short": "J. Neurosci.",
+    "PMID": "30886010",
+    "id": "cAAUyqwj"
   }
 ]

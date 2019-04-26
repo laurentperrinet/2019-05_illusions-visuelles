@@ -11,7 +11,7 @@
       "affiliations": [
         "Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Universit\u00e9"
       ],
-      "funders": "This work was supported by ANR project \"Horizontal-V1\" N\u00b0ANR-17-CE37-0006.",
+      "funders": "ANR project \"Horizontal-V1\" N\u00b0ANR-17-CE37-0006.",
       "affiliation_numbers": [
         1
       ]
@@ -27,13 +27,14 @@
     "repo_slug": "laurentperrinet/2019-05_illusions-visuelles",
     "repo_owner": "laurentperrinet",
     "repo_name": "2019-05_illusions-visuelles",
-    "commit": "c86946d2948860dd0253fdfb9f7dc352852d0646"
+    "commit": "55a4566a94b1d4e436d9d5124a14c5453ffdb548"
   },
   "manuscript_stats": {
     "reference_counts": {
       "arxiv": 1,
-      "total": 1
+      "doi": 1,
+      "total": 2
     },
-    "word_count": 3286
+    "word_count": 3299
   }
 }
