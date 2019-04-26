@@ -34,6 +34,143 @@
     "id": "VzERwUrh"
   },
   {
+    "publisher": "Springer Nature",
+    "issue": "5",
+    "DOI": "10.1038/nrn.2018.20",
+    "type": "article-journal",
+    "page": "255-268",
+    "source": "Crossref",
+    "title": "Cortical travelling waves: mechanisms and computational principles",
+    "volume": "19",
+    "author": [
+      {
+        "given": "Lyle",
+        "family": "Muller"
+      },
+      {
+        "given": "Frédéric",
+        "family": "Chavane"
+      },
+      {
+        "given": "John",
+        "family": "Reynolds"
+      },
+      {
+        "given": "Terrence J.",
+        "family": "Sejnowski"
+      }
+    ],
+    "container-title": "Nature Reviews Neuroscience",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          22
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gc7dvn",
+    "container-title-short": "Nat Rev Neurosci",
+    "PMCID": "PMC5933075",
+    "PMID": "29563572",
+    "id": "9OxNsfYF"
+  },
+  {
+    "publisher": "The Royal Society",
+    "issue": "1407",
+    "DOI": "10.1098/rstb.2000.0769",
+    "type": "article-journal",
+    "page": "299-330",
+    "source": "Crossref",
+    "title": "Geometric visual hallucinations, Euclidean symmetry and the functional architecture of striate cortex",
+    "volume": "356",
+    "author": [
+      {
+        "given": "Paul C.",
+        "family": "Bressloff"
+      },
+      {
+        "given": "Jack D.",
+        "family": "Cowan"
+      },
+      {
+        "given": "Martin",
+        "family": "Golubitsky"
+      },
+      {
+        "given": "Peter J.",
+        "family": "Thomas"
+      },
+      {
+        "given": "Matthew C.",
+        "family": "Wiener"
+      }
+    ],
+    "container-title": "Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          3,
+          29
+        ]
+      ]
+    },
+    "URL": "https://doi.org/cm5ct6",
+    "container-title-short": "Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences",
+    "PMCID": "PMC1088430",
+    "PMID": "11316482",
+    "id": "1FZ2hkaS5"
+  },
+  {
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "10",
+    "DOI": "10.1371/journal.pone.0047502",
+    "type": "article-journal",
+    "page": "e47502",
+    "source": "Crossref",
+    "title": "Smooth Pursuit and Visual Occlusion: Active Inference and Oculomotor Control in Schizophrenia",
+    "volume": "7",
+    "author": [
+      {
+        "given": "Rick A.",
+        "family": "Adams"
+      },
+      {
+        "given": "Laurent U.",
+        "family": "Perrinet"
+      },
+      {
+        "given": "Karl",
+        "family": "Friston"
+      }
+    ],
+    "container-title": "PLoS ONE",
+    "language": "en",
+    "editor": [
+      {
+        "given": "Xiang Yang",
+        "family": "Zhang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          10,
+          26
+        ]
+      ]
+    },
+    "URL": "https://doi.org/f4b2g4",
+    "container-title-short": "PLoS ONE",
+    "PMCID": "PMC3482214",
+    "PMID": "23110076",
+    "id": "hQTLOkzF"
+  },
+  {
     "publisher": "Society for Neuroscience",
     "DOI": "10.1523/jneurosci.2792-18.2019",
     "type": "article-journal",
