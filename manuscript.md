@@ -30,9 +30,9 @@ website: https://laurentperrinet.github.io/
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/537fc9f6cb6c2b767465d978f739f47b2add3fdf/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/ff1325aad2185c815759176c453ebfee998a3e43/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@537fc9f](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/537fc9f6cb6c2b767465d978f739f47b2add3fdf)
+from [laurentperrinet/2019-05_illusions-visuelles@ff1325a](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/ff1325aad2185c815759176c453ebfee998a3e43)
 on April 26, 2019.
 </em></small>
 
@@ -368,6 +368,28 @@ Une extension de cette hypothèse est que le cerveau construisent par des proces
 En utilisant cette formalisation, il est alors possible de l’exprimer sous forme d’équation qui reprennent la structure du passage d’information dans le graphe formé par les différentes régions cérébrales.
 Depuis les their sensoriel comme la rétine aux aires associatives comme celle qui forment les voies visuelles jusqu’aux airs regroupant les motoneurones qui vont permettre de générer une action motrice est un comportement.
 Nous avons contribué avec Rick Adams et Karl Friston à l’application de ce principe pour expliquer des différences entre des patients Neuro typique et des schizophrènes. En se focalisant sur les mouvements des yeux, Espace nous avons démontré dans Adams 2012 que ce paradigme permet d’expliquer les différences dans les mouvements dit de poursuites lente. Il est alors remarquable d’observer en perturbant dans le modèle les gains synaptique des voies descendantes, c’est-à-dire celle qui permet d’affiner le modèle interne de représentation du monde, ont répliqué des caractéristiques comportementales des patients schizophrène. En particulier, c’est mouvements sont expliquées dans ce modèle comme une forme de Delusion quiDe délit vision qui consiste à accorder un poids relatif exagéré aux croyances représenté par le cerveau passeport à celle apportée par l’essence. Cette approche est étendu actuellement par le docteur Richard Adams afin d’ apporter à terme des solutions thérapeutiques et une meilleure compréhension de pathologies comme la schizophrénie.
+
+
+## Vers une Neuro anatomie fonctionnelle des illusions et des hallucinations
+
+Au cours de notre description et définition désigne des illusions nous nous approchons donc des îles hallucinations. Comment expliquer alors la formation d’images hallucinées, comme celle induite par la prise de drogue ou de psychotropes ? Peut-on alors dessiner une Neuro anatomie fonctionnelle qui puisse expliquer ses illusions ses illusions et ses hallucinations dans un cadre unifiée ?
+
+### La contrainte de la représentation corticale
+
+Une hypothèse novatrice proposée par Paul Bresse lasse est ce collègue en 2012 2002 et de voir l’origine de certaines illusions ou hallucinations dans la structure de la représentation rétinienne et des représentations de cette espace visuel dans l’air visuel primaire. En effet la représente
+En effet la représentation rétinienne de l’espace visuel et corps est organisé de façon polaire avec une forte densité au centre division près de l’axe de vision. La représentation corticale d’une ligne est un segment dans l’espace corticale et inversement un segment dans l’espace corticale va apparaître et être perçu comme une courbe par exemple une spirale une fois reprochent et dans l’espace visuel codé par l’espace rétinien.
+En se basant sur une modélisation des connexions latéral entre des populations voisines de neurones de l’air visuel primaire, il a alors établi dans un modèle de champ de Ronal qui régit la dynamique de la carte d’activité l’émergence de représentation privilégiée. Comme nous l’avons décrit à l’échelle microscopique avec notre modèle d’agent schizophréniques, Bresse love décodeur ont alors analyser Matic mathématiquement les états du système quand on perturber certains paramètres du système, notamment les points synaptique régissant les interactions dans la carte corticale.
+Il montre alors un point essentiel : à partir d’un certain seuil de prise de drogue, des entre guillemets « des hallucinations » peuvent émerger avec l’émergence d’une structure stable dans la carte corticale est en allemand ses états une fois un reproche télé sur l’espace visuel dessine des spirales et des ensembles de lignes qui sont très proches qui sont très proche des Assions Lucie Nation telles qu’elles ont été rapportés après la prise de drogues diverses allant de la marijuana au pédiatre ou à la mescaline. Ce type de modélisation permet d’un côté d’expliquer la formation d’hallucinations, mais aussi de définir une Neuro géométrie, c’est-à-dire un formalisme mathématique reliant la géométrie les neurosciences et la gêne géométrie des relations existant entre des sous module d’une ère de l’ère corticale visuel primaire.
+
+Pour aller plus loin dans cette direction, peut-on étendre cette modélisation cette méthodologie à la dynamique présente dans certaines illusions, comme celle du «. Ligne » ? En effet, en présentant un. Puis une ligne on induit une perception (un mouvement dit fille) d’une expansion du point pour « remplir » la ligne. L’originalité de l’étude de Jan qui est collègue est utilisé une technique Dîmages Dîmages une technique d’imagerie qui permet d’enregistrer l’activité sur le cortex visuel primaire (ici du chat anesthésié) lors de la présentation de cette illusion d’optique. À noter qu’en comparant l’activité produite par les deux éléments présentés séparément ou conjointement, on met en évidence une activité différentiel qui est caractéristique de la perception de cette illusion. Une même méthode de méthodologie permet de mettre en évidence un mécanisme normaloriginal. Pour cela on utilise cette fois 1 illusion encore plus simple qui consiste à montrer un point à une position de l’espace visuel puis un. Puis un. Exactement similaire mais à une distance proche est supérieur à la taille de ce point. On pense on perçoit alors un est un seul point qui se déplace de lame première à la seconde position. Au niveau des enregistrements (cette Foissy chez le macaque) la réponse différentiel montre que relativement à un traitement différentiel et indépendamment des est indépendant des :, il existe une vague d’activité qui se déplace sur le Cartex qui en particulier supprime une partie de l’activité. Une modélisation sur ordinateur a permis de montrer une fonction de cette vague de suppression et potentiellement de lever les ambiguïtés sur les différents mouvements possibles représentés sur la carte et dans ce cas particulier de supprimer la représentation d’un mouvement dans le sens opposé. Toutefois, beaucoup de questions restent en suspens. Avec ses résultats, mais montre Laurent le potentiel de vague d’activité sur la surface du cortex comme un outil potentiel de traitement de l’information et de sa modulation,Citation
+Facilitation ou suppression qui peuvent constituer un corps elle a des calculs effectués par le cerveau pour représenter au mieux l’image visuelle.
+
+
+
+## Conclusion
+
+Pour résumer, les illusions et hallucinations nous ouvre une porte sur les possibilités de la perception mais aussi sur une roue atteint Domi fonctionnel désert corticale. Baltic physically weary AsiansMais aussi sur une Neuro anatomie fonctionnelle désert corticale.
+La mobilisation notamment celle que nous proposons, offre une opportunité nouvelles d’appréhender ces mécanismes. Les outils théoriques permettant cette recherche existe mais non pour le moment pas été exploité dans leur plein potentiel. De tels outils seront essentiels à une meilleure compréhension du cerveau, de ses illusions mais aussi des hallucinations et de ce qui peut la provoquer.
 
 
 ## References {.page_break_before}
