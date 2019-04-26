@@ -323,23 +323,31 @@
     "id": "7XVI5bB4"
   },
   {
-    "type": "webpage",
+    "type": "book",
+    "title": "Clone me to create your manuscript. Contribute to manubot/rootstock development by creating an account on GitHub",
+    "publisher": "Manubot",
+    "genre": "HTML",
+    "source": "GitHub",
     "URL": "https://github.com/manubot/rootstock",
-    "title": "manubot/rootstock GitHub repository",
-    "container-title": "GitHub",
+    "note": "original-date: 2017-06-29T17:34:03Z",
     "issued": {
       "date-parts": [
         [
-          2019
+          "2019",
+          4,
+          24
         ]
       ]
     },
-    "author": [
-      {
-        "given": "Daniel",
-        "family": "Himmelstein"
-      }
-    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2019",
+          4,
+          26
+        ]
+      ]
+    },
     "id": "OvL2rC9o"
   },
   {
