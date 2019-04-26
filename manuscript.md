@@ -30,9 +30,9 @@ website: https://laurentperrinet.github.io/
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/e4ec69634320fc3dd9994aa87a11e86edd0a80d3/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/294f4534a8a645ebd011c49253c9008d835341ae/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@e4ec696](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/e4ec69634320fc3dd9994aa87a11e86edd0a80d3)
+from [laurentperrinet/2019-05_illusions-visuelles@294f453](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/294f4534a8a645ebd011c49253c9008d835341ae)
 on April 26, 2019.
 </em></small>
 
@@ -57,6 +57,8 @@ on April 26, 2019.
 ## Abstract {.page_break_before}
 
 Les illusions visuelles sont des créations d'artistes, de scientifiques et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des situations souvent incongrues, dans lesquelles l'eau remonte une cascade, les personnes volent dans les airs ou des serpents se mettent à tourner. Au-delà de leur indéniable coté ludique, ces illusions nous apprennent beaucoup sur le fonctionnement du cerveau, notamment quand celles-ci se transforment en hallucinations visuelles, dépassant ainsi les limites des capacités de notre perception. En tant que chercheur en Neurosciences à l'Institut de Neurosciences de la Timone à Marseille, je vous dévoilerai des aspects du fonctionnement du cerveau qui sont souvent méconnus. En particulier, nous verrons pourquoi un magicien peut tromper nos sens ou comment des objets peuvent voyager dans le temps. Surtout nous essaierons de comprendre le fonctionnement de notre perception visuelle sur les bases d'une théorie de la vision non pas comme une simple caméra qui enregistre des images mais comme un processus actif en relation avec le monde qui nous entoure.
+
+TOTO
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
