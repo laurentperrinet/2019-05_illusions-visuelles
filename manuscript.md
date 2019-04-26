@@ -1,13 +1,9 @@
 ---
-author: Laurent Perrinet
 author-meta:
 - Laurent U Perrinet
 category: review
-date: 2019-04-01
 date-meta: '2019-04-26'
 description: XXX
-institute: "Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Universit\xE9\
-  \ - Marseille, France"
 keywords:
 - Vision
 - Active Inference
@@ -34,9 +30,9 @@ website: https://laurentperrinet.github.io/
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/485898a1856fe50c18eeb114b9a76487744f0edb/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/537fc9f6cb6c2b767465d978f739f47b2add3fdf/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@485898a](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/485898a1856fe50c18eeb114b9a76487744f0edb)
+from [laurentperrinet/2019-05_illusions-visuelles@537fc9f](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/537fc9f6cb6c2b767465d978f739f47b2add3fdf)
 on April 26, 2019.
 </em></small>
 
