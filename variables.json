@@ -1,5 +1,5 @@
 {
-  "date": "April 26, 2019",
+  "date": "April 27, 2019",
   "authors": [
     {
       "github": "laurentperrinet",
@@ -27,7 +27,7 @@
     "repo_slug": "laurentperrinet/2019-05_illusions-visuelles",
     "repo_owner": "laurentperrinet",
     "repo_name": "2019-05_illusions-visuelles",
-    "commit": "ec71fd1f0a6d97e5900f9025f9381ab228c0f326"
+    "commit": "3c01a9e15458155820b2789961c14c50a358088e"
   },
   "manuscript_stats": {
     "reference_counts": {
@@ -35,6 +35,6 @@
       "doi": 7,
       "total": 8
     },
-    "word_count": 3248
+    "word_count": 3271
   }
 }

@@ -2,7 +2,7 @@
 author-meta:
 - Laurent U Perrinet
 category: review
-date-meta: '2019-04-26'
+date-meta: '2019-04-27'
 description: XXX
 keywords:
 - Perception visuelle
@@ -30,10 +30,10 @@ website: https://laurentperrinet.github.io/
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/ec71fd1f0a6d97e5900f9025f9381ab228c0f326/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/3c01a9e15458155820b2789961c14c50a358088e/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@ec71fd1](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/ec71fd1f0a6d97e5900f9025f9381ab228c0f326)
-on April 26, 2019.
+from [laurentperrinet/2019-05_illusions-visuelles@3c01a9e](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/3c01a9e15458155820b2789961c14c50a358088e)
+on April 27, 2019.
 </em></small>
 
 ## Authors
@@ -59,8 +59,7 @@ on April 26, 2019.
 Les illusions visuelles sont des créations d'artistes, de scientifiques et plus récemment du grand public grâce aux réseaux sociaux, qui proposent des situations souvent incongrues, dans lesquelles l'eau remonte une cascade, les personnes volent dans les airs ou des serpents se mettent à tourner. Au-delà de leur indéniable coté ludique, ces illusions nous apprennent beaucoup sur le fonctionnement du cerveau, notamment quand celles-ci se transforment en hallucinations visuelles, dépassant alors les limites des capacités normales de notre perception. En tant que chercheur en Neurosciences à l'Institut de Neurosciences de la Timone à Marseille, je dévoile ici des aspects du fonctionnement du cerveau qui sont souvent méconnus. En particulier, nous verrons pourquoi une image peut tromper nos sens ou comment des objets peuvent voyager dans le temps. Surtout nous essaierons de comprendre le fonctionnement de notre perception visuelle sur les bases d'une théorie de la vision, non pas comme une simple caméra qui enregistre passivement des images, mais comme un processus actif en relation directe avec le monde qui nous entoure.
 
 
-Nous allons ici montrer comment les limites de la perception permettent et peuvent nous aider à mieux comprendre le fonctionnement du cerveau et de ses pathologies.
-En partant des illusions visuelles, nous allons ensuite explorer différentes hypothèses pour comprendre ses illusions, mais aussi pour aborder une Neuro anatomie fonctionnelle des hallucinations et allusion illusions visuelles.
+Nous allons ici montrer comment les limites de la perception permettent et peuvent nous aider à mieux comprendre le fonctionnement du cerveau et de ses pathologies. En partant des illusions visuelles, nous allons ensuite explorer différentes hypothèses pour comprendre ses illusions, mais aussi pour aborder une neuro-anatomie fonctionnelle des hallucinations et illusions visuelles.
 
 ## Illusion visuelle et hallucinations
 
@@ -72,6 +71,9 @@ Cette illusion est stable même si l’on prend une règle pour vérifier physiq
 Aussi, il n’est pas possible de ne pas la percevoir.
 Ainsi, pour cette
 Ainsi, pour cette illusion comme pour une grande variété d’autres illusions visuelles statique ou dynamique ou sur d’autres modalités comme le toucher, les illusions visuelles Marc tout d’abord par ce caractère quasi universelle et intuitif c’est-à-dire sans qu’il faille expliquer un mode d’emploi pour les illusions.
+
+![
+**Illusion de Hering.** Deux lignes parallèles (en rouge) paraissent bombées quand elles sont placées sur un faisceau de lignes convergentes.](https://raw.githubusercontent.com/laurentperrinet/2019-04-18_JNLF/master/figures/Hering_illusion.svg?sanitize=true "Hering illusion"){#fig:vector-image height=2.5in .white}
 
 À ce titre, une illusion et remarques Cable à bien
 À ce titre, une illusion particulière est remarquable à bien des égards. En effet, de nombreuses désillusions comme le cube de Necker sont Multi stable, dans le sens où la perception peut alterner autour de plusieurs interprétations possibles de la même image. Dans le cas de #LaRobe,NousAvonsUneImageQuiALePouvoirDeDiviserUnePopulationEntreDesPerceptionsAlternative.
