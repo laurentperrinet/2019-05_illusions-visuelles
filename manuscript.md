@@ -2,7 +2,7 @@
 author-meta:
 - Laurent U Perrinet
 category: review
-date-meta: '2019-04-27'
+date-meta: '2019-04-29'
 description: XXX
 keywords:
 - Perception visuelle
@@ -30,10 +30,10 @@ website: https://laurentperrinet.github.io/
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/aae4313427fd481cab8347f257fd3cd8dea61e74/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/76421be1c4d6e43c0a5b2760cdf6d5d4eec4c4d0/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@aae4313](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/aae4313427fd481cab8347f257fd3cd8dea61e74)
-on April 27, 2019.
+from [laurentperrinet/2019-05_illusions-visuelles@76421be](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/76421be1c4d6e43c0a5b2760cdf6d5d4eec4c4d0)
+on April 29, 2019.
 </em></small>
 
 ## Authors
@@ -54,7 +54,7 @@ on April 27, 2019.
 
 
 
-## Abstract {.page_break_before}
+## Résumé {.page_break_before}
 
 Les illusions visuelles sont des créations d'artistes, de scientifiques et plus récemment du grand public grâce aux réseaux sociaux, qui proposent des situations souvent incongrues, dans lesquelles l'eau remonte une cascade, les personnes volent dans les airs ou des serpents se mettent à tourner. Au-delà de leur indéniable coté ludique, ces illusions nous apprennent beaucoup sur le fonctionnement du cerveau, notamment quand celles-ci se transforment en hallucinations visuelles, dépassant alors les limites des capacités normales de notre perception. En tant que chercheur en Neurosciences à l'Institut de Neurosciences de la Timone à Marseille, je dévoile ici des aspects du fonctionnement du cerveau qui sont souvent méconnus. En particulier, nous verrons pourquoi une image peut tromper nos sens ou comment des objets peuvent voyager dans le temps. Surtout nous essaierons de comprendre le fonctionnement de notre perception visuelle sur les bases d'une théorie de la vision, non pas comme une simple caméra qui enregistre passivement des images, mais comme un processus actif en relation directe avec le monde qui nous entoure.
 
