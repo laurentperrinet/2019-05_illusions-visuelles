@@ -35,9 +35,9 @@ Ce texte est en cours d'écriture - tout retour est bienvenu.
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/0bf49896fc321906188b58acde0e1913218ea2cc/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/55dc044b7ac45af4e2797632317cd6fc121194f7/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@0bf4989](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/0bf49896fc321906188b58acde0e1913218ea2cc)
+from [laurentperrinet/2019-05_illusions-visuelles@55dc044](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/55dc044b7ac45af4e2797632317cd6fc121194f7)
 on April 29, 2019.
 </em></small>
 
