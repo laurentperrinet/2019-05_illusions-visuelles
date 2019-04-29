@@ -27,14 +27,13 @@
     "repo_slug": "laurentperrinet/2019-05_illusions-visuelles",
     "repo_owner": "laurentperrinet",
     "repo_name": "2019-05_illusions-visuelles",
-    "commit": "76421be1c4d6e43c0a5b2760cdf6d5d4eec4c4d0"
+    "commit": "6999facaf043cb30e3d1d0f1dfd85ec0fa0865be"
   },
   "manuscript_stats": {
     "reference_counts": {
-      "arxiv": 1,
       "doi": 7,
-      "total": 8
+      "total": 7
     },
-    "word_count": 3295
+    "word_count": 3325
   }
 }
