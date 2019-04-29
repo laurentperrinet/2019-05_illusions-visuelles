@@ -36,9 +36,9 @@ Ce texte est en cours d'écriture - tout retour est bienvenu.
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/8642b2027166f4ade11e9029f838a9eef630b460/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/c794f01f127031ac241d6bf3671096f7d7ccc17f/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@8642b20](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/8642b2027166f4ade11e9029f838a9eef630b460)
+from [laurentperrinet/2019-05_illusions-visuelles@c794f01](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/c794f01f127031ac241d6bf3671096f7d7ccc17f)
 on April 29, 2019.
 </em></small>
 
@@ -84,7 +84,7 @@ Le contexte d'illumination ambiante permet de concilier les deux interprétation
 Pour aller plus loin, il est intéressant de considérer cette image prise en 1971 par la sonde Viking d’une partie de la surface de la planète Mars (Figure @fig:viking). L’image est relativement floue, et les points noirs sont des erreurs de mesure  mais l’on distingue très clairement un visage de type humain comme une sculpture géante laisser là par une civilisation extraterrestre. Quelques 20 ans plus tard, de nouvelles images ont été réalisés par de nouvelles sondes spatiales et montrent aussi une forme de visage. Mais une fois la résolution de l’image affinée, les détails du relief révèlent qu’il n’y a pas physiquement de sculpture de ce type mais seulement un simple rocher. C’est un cas de [paraeidolie](https://fr.wikipedia.org/wiki/Par%C3%A9idolie) : quelque chose est perçu alors qu’il est physiquement absent. De la même façon, on peut voir un cheval courir dans les nuages, ou le visage du Christ dans un toast, le constat est le même : le système visuel et en particulier la perception qui en découlent non seulement interprète les images, mais sur surtout, il ne peut pas faire autrement que de générer une interprétation à partir d’images, et comme on vient de le voir même si elles ne font pas a priori sens. Dans ce genre d’illusion on se rapproche donc d’une hallucination, qui peut être définie comme une perception sans objet.
 
 ![
-**Un visage sur Mars.** En 1971, la sonde Viking prend une surprenante image de la surface de Mars. Une sculpture extraterrestre géante?](https://raw.githubusercontent.com/laurentperrinet/2019-04-18_JNLF/master/figures/Face-on-mars.jpg "Viking"){#fig:viking height=2.5in .white}
+**Un visage sur Mars.** En 1971, la sonde Viking prend une surprenante image de la surface de Mars. Une sculpture extraterrestre géante?](https://raw.githubusercontent.com/laurentperrinet/2019-04-18_JNLF/master/figures/Face-on-mars.jpg "Viking"){#fig:viking width=50% .white}
 
 Pour résumer, les illusions visuelles, en plus de leur côté ludique, nous révèlent des caractéristiques essentielles de notre perception visuelle tant sur leurs caractéristiques universelles que sur les variabilités inter et intra individuelles. Malgré la diversité des formes des illusions visuelles et la diversité des explications qu’on peut leur faire correspondre, existe-t-il des points communs qui permettraient d’en avoir une compréhension unifiée ? Quelles pourraient être les liens profonds entre illusions visuelles avec des hallucinations aussi bien chez les sujets neuro-typique que dans des pathologies psychologiques?
 
