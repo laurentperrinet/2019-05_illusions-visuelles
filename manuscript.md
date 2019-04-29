@@ -35,9 +35,9 @@ Ce texte est en cours d'écriture - tout retour est bienvenu.
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/8dbc334dcb059066df45aeded35fe89e933f8b88/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/c2b925397bcd944f229f810ba4004f1a0a60dad2/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@8dbc334](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/8dbc334dcb059066df45aeded35fe89e933f8b88)
+from [laurentperrinet/2019-05_illusions-visuelles@c2b9253](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/c2b925397bcd944f229f810ba4004f1a0a60dad2)
 on April 29, 2019.
 </em></small>
 
@@ -77,6 +77,8 @@ L’étymologie du mot illusion réfère à la tromperie et nous permet de défi
 
 ![](https://raw.githubusercontent.com/laurentperrinet/2019-04-18_JNLF/master/figures/The_Dress_(viral_phenomenon).png "#LaRobe"){#fig:larobe width=40% .white}
 ![**#LaRobe.** La robe est-elle blanche avec des rayures dorées ou bleue avec des bandes sombres? Le contexte d'illumination ambiante permet de concilier les deux interprétations les plus communes.](https://raw.githubusercontent.com/laurentperrinet/2019-04-18_JNLF/master/figures/Wikipe-tan_wearing_The_Dress.svg?sanitize=true "#LaRobe"){#fig:larobe2 width=55% .white}
+
+Caption: Look at all my baby seals!
 
 Pour aller plus loin, il est intéressant de considérer cette image prise en 1971 par la sonde Viking d’une partie de la surface de la planète Mars (Figure @fig:viking). L’image est relativement floue, et les points noirs sont des erreurs de mesure  mais l’on distingue très clairement un visage de type humain comme une sculpture géante laisser là par une civilisation extraterrestre. Quelques 20 ans plus tard, de nouvelles images ont été réalisés par de nouvelles sondes spatiales et montrent aussi une forme de visage. Mais une fois la résolution de l’image affinée, les détails du relief révèlent qu’il n’y a pas physiquement de sculpture de ce type mais seulement un simple rocher. C’est un cas de [paréidolie](https://fr.wikipedia.org/wiki/Par%C3%A9idolie) : quelque chose est perçu alors qu’il est physiquement absent. De la même façon, on peut voir un cheval courir dans les nuages, ou le visage du Christ dans un toast, le constat est le même : le système visuel et en particulier la perception qui en découlent non seulement interprète les images, mais sur surtout, il ne peut pas faire autrement que de générer une interprétation à partir d’images, et comme on vient de le voir même si elles ne font pas a priori sens. Dans ce genre d’illusion on se rapproche donc d’une hallucination, qui peut être définie comme une perception sans objet.
 
