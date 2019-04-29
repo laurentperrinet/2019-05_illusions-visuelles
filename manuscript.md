@@ -35,9 +35,9 @@ Ce texte est en cours d'écriture - tout retour est bienvenu.
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/656c9278de4873a3bf7bd84fc408ebc5e2d0d61d/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/0bf49896fc321906188b58acde0e1913218ea2cc/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@656c927](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/656c9278de4873a3bf7bd84fc408ebc5e2d0d61d)
+from [laurentperrinet/2019-05_illusions-visuelles@0bf4989](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/0bf49896fc321906188b58acde0e1913218ea2cc)
 on April 29, 2019.
 </em></small>
 
@@ -135,11 +135,11 @@ Pour aller plus loin dans cette direction, peut-on étendre cette méthodologie 
 Pour résumer, les illusions et hallucinations nous ouvre une porte sur les possibilités de la perception mais aussi sur une compréhension des mécanismes cérébraux qui les induisent. La modélisation, notamment celle que nous proposons, offre une opportunité nouvelle d’appréhender ces mécanismes. Les outils théoriques permettant de progresser dans cette voie de recherche existent mais ne sont pas pour le moment exploités à leur plein potentiel. Ils seront essentiels pour une meilleure compréhension des illusions visuelles, des hallucinations et de ce qui peut la provoquer, mais aussi du cerveau en général.
 
 
-
+<!-- 
 ## Acknowledgements
 
 We'd like to thank the individuals, not listed as authors, who provided comments on
-<!--  [GitHub issues](https://github.com/search?l=&q=repo%3Agreenelab%2Fscihub+repo%3Agreenelab%2Fscihub-manuscript+repo%3Agreenelab%2Fscihub-browser-data+repo%3Adhimmel%2Fscopus+repo%3Agreenelab%2Flibrary-access&ref=advsearch&type=Issues&utf8=%E2%9C%93 "GitHub Issues in Project Repositories") or pull requests.
+ [GitHub issues](https://github.com/search?l=&q=repo%3Agreenelab%2Fscihub+repo%3Agreenelab%2Fscihub-manuscript+repo%3Agreenelab%2Fscihub-browser-data+repo%3Adhimmel%2Fscopus+repo%3Agreenelab%2Flibrary-access&ref=advsearch&type=Issues&utf8=%E2%9C%93 "GitHub Issues in Project Repositories") or pull requests.
 Specifically, [Ross Mounce](https://github.com/rossmounce), [Richard Smith-Unna](https://github.com/blahah), [Guillaume Cabanac](https://github.com/gcabanac), and [Stuart Taylor](https://github.com/StuartCT) provided valuable input while the study was underway.
 In addition, we're grateful to GitHub for offering gratis Large File Storage as part of their education program. -->
 
