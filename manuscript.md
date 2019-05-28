@@ -2,7 +2,7 @@
 author-meta:
 - Laurent U Perrinet
 category: review
-date-meta: '2019-04-29'
+date-meta: '2019-05-28'
 description: XXX
 keywords:
 - Perception visuelle
@@ -35,10 +35,10 @@ Ce texte est en cours d'écriture - tout retour est bienvenu.
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/55dc044b7ac45af4e2797632317cd6fc121194f7/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/e4c878bea806546a38e454b5c2f340d3f113fe8d/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@55dc044](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/55dc044b7ac45af4e2797632317cd6fc121194f7)
-on April 29, 2019.
+from [laurentperrinet/2019-05_illusions-visuelles@e4c878b](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/e4c878bea806546a38e454b5c2f340d3f113fe8d)
+on May 28, 2019.
 </em></small>
 
 ## Authors
@@ -94,7 +94,7 @@ Quelques 20 ans plus tard, de nouvelles images ont été réalisés par de nouve
 Pour résumer, les illusions visuelles, en plus de leur côté ludique, nous révèlent des caractéristiques essentielles de notre perception visuelle tant sur leurs caractéristiques universelles que sur les variabilités inter et intra individuelles. Malgré la diversité des formes des illusions visuelles et la diversité des explications qu’on peut leur faire correspondre, existe-t-il des points communs qui permettraient d’en avoir une compréhension unifiée ? Quelles pourraient être les liens profonds entre illusions visuelles avec des hallucinations aussi bien chez les sujets neuro-typique que dans des pathologies psychologiques?
 
 
-## Perception visuelle et opérations prédictives
+## Prédire pour mieux percevoir
 
 Avant d’essayer de donner une réponse à ces questions, rappelons une contrainte fondamentale à laquelle notre cerveau est confronté : l’environnement et dynamique et notre cerveau est (relativement) lent pour traiter ces informations. En effet les travaux de Simon Thorpe à Toulouse au Cerco ont montré des capacités ultra-rapide de catégorisation d’image chez les primates. Cette vitesse peut atteindre environ 100 ms chez l’humain [@QstYfgqz] et 80 ms chez le singe. C’est remarquablement rapide mais relativement long si l'on considère cette fois-ci une tâche simple d’interception d’un objet en mouvement. Considérons par exemple un agent qui suit une balle de tennis lancée à une vitesse de 20 m/s à une distance de 1 m devant son regard. Au moment de passer dans l’axe de vision du joueur de tennis, la balle va être perçue en arrière de la trajectoire à cause du délai sensoriel. Plus précisément la balle est placée à l’instant où l’image est prise à environ 45° d’angle visuel en retard sur la position réelle actuelle de la balle. À noter que la position de la balle est sur l’axe de vision (telle celle figurée par cette position des yeux), mais que pour le système sensoriel, cette position au temps présent doit être anticipée. Notons aussi notons aussi que la position de la balle, dans cette représentation rétinienne, au moment où l’action sera réalisée (après le délai sensorimoteur total) pourra être estimée à partir de la continuité du mouvement de la balle. C’est-à-dire qu’elle sera encore environ à 45° d’angle visuel mais cette fois-là en avant de la trajectoire, dans son futur. Il semble incroyable que ce genre de voyage dans le temps puisse s’opérer dans notre cerveau, mais une simple illusion visuelle permet de mettre ces mécanismes en évidence.
 
