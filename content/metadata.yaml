@@ -18,11 +18,11 @@ author_info:
       - Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
     funders: ANR project "Horizontal-V1" N°ANR-17-CE37-0006.
 
-subject: XXX
-description: XXX
+subject: neurosciences, psychiatrie, psychologie, cerveau
+description: Article de dissémination sur la perception visuelle, vue à travers illusions et hallucinations.
 category: review
 papersize: a4
-thanks: L'auteur voudrait remercier...
+thanks: L'auteur voudrait remercier [Aline Richard Zivohlava](https://theconversation.com/profiles/aline-richard-zivohlava-189434) pour les (nombreuses!) corrections apportées à ce texte.
 website: https://laurentperrinet.github.io/
 source: https://github.com/laurentperrinet/2019_illusions-visuelles
 
