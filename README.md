@@ -3,7 +3,7 @@
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://laurentperrinet.github.io/2019-05_illusions-visuelles/)
-[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://laurentperrinet.github.io/2019-05_illusions-visuelles/manuscript.pdf)
+<!-- [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://laurentperrinet.github.io/2019-05_illusions-visuelles/manuscript.pdf) -->
 [![Build Status](https://travis-ci.com/laurentperrinet/2019-05_illusions-visuelles.svg?branch=master)](https://travis-ci.com/laurentperrinet/2019-05_illusions-visuelles)
 
 ## Manuscript description
