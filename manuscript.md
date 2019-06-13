@@ -37,9 +37,9 @@ Ce texte est publié dans [The conversation](https://theconversation.com/illusio
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/eca38290ae3403e571893684197e88ef0550385c/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/c26019f09b57c20f37c8a152ccbc3bc0f4d4f2fb/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@eca3829](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/eca38290ae3403e571893684197e88ef0550385c)
+from [laurentperrinet/2019-05_illusions-visuelles@c26019f](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/c26019f09b57c20f37c8a152ccbc3bc0f4d4f2fb)
 on June 13, 2019.
 </em></small>
 
