@@ -2,7 +2,7 @@
 author-meta:
 - Laurent U Perrinet
 category: review
-date-meta: '2019-06-13'
+date-meta: '2019-06-17'
 description: "Article de diss\xE9mination sur la perception visuelle, vue \xE0 travers\
   \ illusions et hallucinations."
 keywords:
@@ -28,7 +28,7 @@ website: https://laurentperrinet.github.io/2019-05_illusions-visuelles/
 
 [
 <i class="fas fa-ban fa-lg"></i> **Document source**<br>
-Ce texte est publié dans [The conversation](https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389) dans une forme légèrement abrégée. Les additions aux texte sont marquées dans des bannières et peuvent être suivies sur le [repo GitHub](https://github.com/laurentperrinet/2019-05_illusions-visuelles).
+Ce texte est publié dans [The conversation](https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389) dans une forme légèrement abrégée. Les additions aux texte sont marquées dans des bannières et peuvent être suivies sur le [repo GitHub](https://github.com/laurentperrinet/2019-05_illusions-visuelles){.button}.
 ]{.banner .lightred}
 
 
@@ -37,10 +37,10 @@ Ce texte est publié dans [The conversation](https://theconversation.com/illusio
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/9bd7655d7e152285c31fdfa8e37251fff8b48831/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/5ac846f161259d7d7a26e179ec40f88bde095366/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@9bd7655](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/9bd7655d7e152285c31fdfa8e37251fff8b48831)
-on June 13, 2019.
+from [laurentperrinet/2019-05_illusions-visuelles@5ac846f](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/5ac846f161259d7d7a26e179ec40f88bde095366)
+on June 17, 2019.
 </em></small>
 
 ## Authors
@@ -130,9 +130,9 @@ Ils ont alors montré un point essentiel: à partir d’un certain seuil de pris
 
 ![**Modèles d'hallucination** Modèles d’hallucination sous drogues: une modélisation mathématique permet de prédire leur forme.](https://raw.githubusercontent.com/laurentperrinet/2019-04-18_JNLF/master/figures/Bressloff2002Fig7.png "Halucination"){#fig:hallu width=85% .white}
 
-[<i class="fas fa-ban fa-lg"></i> Pour aller plus loin dans cette direction, peut-on étendre cette méthodologie à la dynamique présente dans certaines illusions, comme celle du « Point-Ligne » ? En effet, en présentant un simple point puis une ligne on induit une perception d’une expansion du point pour « remplir » la ligne (un mouvement dit Phi). L’originalité de l’étude de Jancke et collègues est d'utiliser une technique d’imagerie qui permet d’enregistrer l’activité sur le cortex visuel primaire (ici du chat anesthésié) lors de la présentation de cette illusion d’optique. À noter qu’en comparant l’activité produite par les deux éléments présentés séparément ou conjointement, on met en évidence une activité différentielle qui est caractéristique de la perception de cette illusion. Une même  méthodologie permet de mettre en évidence un mécanisme original. Pour cela on utilise cette fois une illusion encore plus simple qui consiste à montrer un point à une position de l’espace visuel puis un autre point exactement similaire mais à une distance proche (mais supérieure à la taille de ce point). On perçoit alors un et un seul point qui se déplace de la première à la seconde position. Au niveau des enregistrements (cette fois chez le macaque) la réponse différentielle montre que relativement à un traitement indépendant des deux points, il existe une vague d’activité qui se déplace sur le cortex qui en particulier supprime une partie de l’activité [@cAAUyqwj]. Une modélisation sur ordinateur a permis de montrer qu'une fonction de cette vague de suppression est de lever les ambiguïtés sur les différents mouvements possibles représentés sur la carte. Dans ce cas particulier, la vague permet de supprimer la représentation d’un mouvement dans le sens, voir Figure @fig:chemla. Toutefois, beaucoup de questions restent en suspens. Ces résultats montrent le rôle potentiel des vagues d’activité sur la surface du cortex comme un outil potentiel de traitement de l’information et de sa modulation [@9OxNsfYF]. Ces vagues peuvent en effet induire facilitations ou suppressions dans l'espace et le temps et produire une forme de « calcul » pour représenter au mieux l’image visuelle.]{.banner .lightred}
+[<i class="fas fa-info-circle fa-lg"></i> Pour aller plus loin dans cette direction, peut-on étendre cette méthodologie à la dynamique présente dans certaines illusions, comme celle du « Point-Ligne » ? En effet, en présentant un simple point puis une ligne on induit une perception d’une expansion du point pour « remplir » la ligne (un mouvement dit Phi). L’originalité de l’étude de Jancke et collègues est d'utiliser une technique d’imagerie qui permet d’enregistrer l’activité sur le cortex visuel primaire (ici du chat anesthésié) lors de la présentation de cette illusion d’optique. À noter qu’en comparant l’activité produite par les deux éléments présentés séparément ou conjointement, on met en évidence une activité différentielle qui est caractéristique de la perception de cette illusion. Une même  méthodologie permet de mettre en évidence un mécanisme original. Pour cela on utilise cette fois une illusion encore plus simple qui consiste à montrer un point à une position de l’espace visuel puis un autre point exactement similaire mais à une distance proche (mais supérieure à la taille de ce point). On perçoit alors un et un seul point qui se déplace de la première à la seconde position. Au niveau des enregistrements (cette fois chez le macaque) la réponse différentielle montre que relativement à un traitement indépendant des deux points, il existe une vague d’activité qui se déplace sur le cortex qui en particulier supprime une partie de l’activité [@cAAUyqwj]. Une modélisation sur ordinateur a permis de montrer qu'une fonction de cette vague de suppression est de lever les ambiguïtés sur les différents mouvements possibles représentés sur la carte. Dans ce cas particulier, la vague permet de supprimer la représentation d’un mouvement dans le sens, voir Figure @fig:chemla. Toutefois, beaucoup de questions restent en suspens. Ces résultats montrent le rôle potentiel des vagues d’activité sur la surface du cortex comme un outil potentiel de traitement de l’information et de sa modulation [@9OxNsfYF]. Ces vagues peuvent en effet induire facilitations ou suppressions dans l'espace et le temps et produire une forme de « calcul » pour représenter au mieux l’image visuelle.]{.banner .lightblue}
 
-![**Vagues corticales** Des vagues de propagation détectées sur la surface du cortex semblent avoir un rôle fonctionnel pour représenter des informations visuelles.](https://raw.githubusercontent.com/laurentperrinet/2019-04-18_JNLF/master/figures/Chemla_etal2019.png "Halucination"){#fig:chemla width=85% .white}
+![**Vagues corticales** Des vagues de propagation détectées sur la surface du cortex semblent avoir un rôle fonctionnel pour représenter des informations visuelles.](https://raw.githubusercontent.com/laurentperrinet/2019-04-18_JNLF/master/figures/Chemla_etal2019.png "Halucination"){#fig:chemla width=85% .white}{.lightblue}
 
 
 ## Conclusion
