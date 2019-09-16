@@ -2,7 +2,7 @@
 author-meta:
 - Laurent U Perrinet
 category: review
-date-meta: '2019-06-17'
+date-meta: '2019-09-16'
 description: "Article de diss\xE9mination sur la perception visuelle, vue \xE0 travers\
   \ illusions et hallucinations."
 keywords:
@@ -37,10 +37,10 @@ Ce texte est publié dans [The conversation](https://theconversation.com/illusio
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/a4a74c7be41b673a65885015c6dbdfea776804fe/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/b512bf0599ed44427c20dc1654fa34327ebbba02/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@a4a74c7](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/a4a74c7be41b673a65885015c6dbdfea776804fe)
-on June 17, 2019.
+from [laurentperrinet/2019-05_illusions-visuelles@b512bf0](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/b512bf0599ed44427c20dc1654fa34327ebbba02)
+on September 16, 2019.
 </em></small>
 
 ## Authors
