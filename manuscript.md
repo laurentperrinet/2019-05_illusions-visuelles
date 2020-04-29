@@ -1,27 +1,21 @@
 ---
 author-meta:
 - Laurent U Perrinet
-category: review
-date-meta: '2019-09-16'
-description: "Article de diss\xE9mination sur la perception visuelle, vue \xE0 travers\
-  \ illusions et hallucinations."
+bibliography:
+- content/manual-references.json
+date-meta: '2020-04-29'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Des illusions visuelles aux hallucinations: une porte sur la perception\" />\n<meta name=\"citation_title\" content=\"Des illusions visuelles aux hallucinations: une porte sur la perception\" />\n<meta property=\"og:title\" content=\"Des illusions visuelles aux hallucinations: une porte sur la perception\" />\n<meta property=\"twitter:title\" content=\"Des illusions visuelles aux hallucinations: une porte sur la perception\" />\n<meta name=\"dc.date\" content=\"2020-04-29\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-29\" />\n<meta name=\"dc.language\" content=\"fr-FR\" />\n<meta name=\"citation_language\" content=\"fr-FR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Laurent U Perrinet\" />\n<meta name=\"citation_author_institution\" content=\"Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Universit\xE9\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-9536-010X\" />\n<meta name=\"twitter:creator\" content=\"@laurentperrinet\" />\n<link rel=\"canonical\" href=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/\" />\n<meta property=\"og:url\" content=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/\" />\n<meta property=\"twitter:url\" content=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/\" />\n<meta name=\"citation_pdf_url\" content=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/52441ec2b4799b8f098e2cd196f13f8afd1dc159/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/52441ec2b4799b8f098e2cd196f13f8afd1dc159/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/52441ec2b4799b8f098e2cd196f13f8afd1dc159/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<meta property=\"og:image\" content=\"https://github.com/laurentperrinet/2019-05_illusions-visuelles/raw/52441ec2b4799b8f098e2cd196f13f8afd1dc159/thumbnail.png\" />\n<meta property=\"twitter:image\" content=\"https://github.com/laurentperrinet/2019-05_illusions-visuelles/raw/52441ec2b4799b8f098e2cd196f13f8afd1dc159/thumbnail.png\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - Perception visuelle
 - Illusions visuelles
 - Hallucinations visuelles
 - "Mod\xE9lisation neurale"
 lang: fr-FR
-papersize: a4
-source: https://github.com/laurentperrinet/2019-05_illusions-visuelles
-subject: neurosciences, psychiatrie, psychologie, cerveau
-summary: "Les objectifs sont : \u2013 mieux comprendre la fonction de la perception\
-  \ visuelle en explorant certaines limites ; \u2013 mieux comprendre l\u2019importance\
-  \ de l\u2019aspect dynamique de la perception ; \u2013 mieux comprendre le r\xF4\
-  le de l\u2019action dans la perception."
-thanks: "L'auteur voudrait remercier [Aline Richard Zivohlava](https://theconversation.com/profiles/aline-richard-zivohlava-189434)\
-  \ pour les (nombreuses!) corrections apport\xE9es \xE0 ce texte."
+manubot-clear-requests-cache: false
+manubot-output-bibliography: output/references.json
+manubot-output-citekeys: output/citations.tsv
+manubot-requests-cache-path: ci/cache/requests-cache
 title: 'Des illusions visuelles aux hallucinations: une porte sur la perception'
-website: https://laurentperrinet.github.io/2019-05_illusions-visuelles/
 ...
 
 
@@ -37,10 +31,10 @@ Ce texte est publié dans [The conversation](https://theconversation.com/illusio
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/57637d4671b33c4a07dec52deea29cebdc69c8d0/))
+([permalink](https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/52441ec2b4799b8f098e2cd196f13f8afd1dc159/))
 was automatically generated
-from [laurentperrinet/2019-05_illusions-visuelles@57637d4](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/57637d4671b33c4a07dec52deea29cebdc69c8d0)
-on September 16, 2019.
+from [laurentperrinet/2019-05_illusions-visuelles@52441ec](https://github.com/laurentperrinet/2019-05_illusions-visuelles/tree/52441ec2b4799b8f098e2cd196f13f8afd1dc159)
+on April 29, 2020.
 </em></small>
 
 ## Authors
@@ -64,6 +58,298 @@ on September 16, 2019.
 ## Résumé {.page_break_before}
 
 Soudain, votre voisin s’envole dans les airs tandis que la rivière remonte son cours et que des serpents se mettent à tourner… Les illusions visuelles, créations d’artistes ou de scientifiques sont très populaires auprès du public qui les diffuse largement sur les réseaux sociaux. Amusantes, elles nous en apprennent beaucoup sur le fonctionnement du cerveau. En particulier quand l’illusion devient hallucination visuelle, pour cause de maladie par exemple. Chercheur à l’Institut de Neurosciences de la Timone à Marseille, je m’y suis intéressé et voudrait ici vous expliquer comment et pourquoi une image peut tromper nos sens ou des objets voyager dans le temps. L’idée sous-jacente est celle d’une théorie de la vision envisagée comme un processus actif en relation directe avec le monde qui nous entoure.
+
+
+This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
+Use this template as a starting point for your manuscript.
+
+The rest of this document is a full list of formatting elements/features supported by Manubot.
+Compare the input (`.md` files in the `/content` directory) to the output you see below.
+
+## Basic formatting
+
+**Bold** __text__
+
+[Semi-bold text]{.semibold}
+
+[Centered text]{.center}
+
+[Right-aligned text]{.right}
+
+*Italic* _text_
+
+Combined *italics and __bold__*
+
+~~Strikethrough~~
+
+1. Ordered list item
+2. Ordered list item
+    a. Sub-item
+    b. Sub-item
+        i. Sub-sub-item
+3. Ordered list item
+    a. Sub-item
+
+- List item
+- List item
+- List item
+
+subscript: H~2~O is a liquid
+
+superscript: 2^10^ is 1024.
+
+[unicode superscripts](https://www.google.com/search?q=superscript+generator)⁰¹²³⁴⁵⁶⁷⁸⁹
+
+[unicode subscripts](https://www.google.com/search?q=superscript+generator)₀₁₂₃₄₅₆₇₈₉
+
+A long paragraph of text.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Putting each sentence on its own line has numerous benefits with regard to [editing](https://asciidoctor.org/docs/asciidoc-recommended-practices/#one-sentence-per-line) and [version control](https://rhodesmill.org/brandon/2012/one-sentence-per-line/).
+
+Line break without starting a new paragraph by putting  
+two spaces at end of line.
+
+## Document organization
+
+Document section headings:
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+### A heading centered on its own printed page{.center .page_center}
+
+<!-- an arbitrary comment. visible in input, but not visible in output. -->
+
+Horizontal rule:
+
+---
+
+`Heading 1`'s are recommended to be reserved for the title of the manuscript.
+
+`Heading 2`'s are recommended for broad sections such as *Abstract*, *Methods*, *Conclusion*, etc.
+
+`Heading 3`'s and `Heading 4`'s are recommended for sub-sections.
+
+## Links
+
+Bare URL link: <https://manubot.org>
+
+[Long link with lots of words and stuff and junk and bleep and blah and stuff and other stuff and more stuff yeah](https://manubot.org)
+
+[Link with text](https://manubot.org)
+
+[Link with hover text](https://manubot.org "Manubot Homepage")
+
+[Link by reference][manubot homepage]
+
+[Manubot Homepage]: https://manubot.org
+
+## Citations
+
+Citation by DOI [@doi:10.7554/eLife.32822].
+
+Citation by PubMed Central ID [@pmcid:PMC6103790].
+
+Citation by PubMed ID [@pmid:30718888].
+
+Citation by Wikidata ID [@wikidata:Q56458321].
+
+Citation by ISBN [@isbn:9780262517638].
+
+Citation by URL [@url:https://greenelab.github.io/meta-review/].
+
+Citation by tag [@tag:deep-review].
+
+Multiple citations can be put inside the same set of brackets [@doi:10.7554/eLife.32822; @tag:deep-review; @isbn:9780262517638].
+Manubot plugins provide easier, more convenient visualization of and navigation between citations [@doi:10.1371/journal.pcbi.1007128; @pmid:30718888; @pmcid:PMC6103790; @tag:deep-review].
+
+Citation tags (i.e. aliases) can be defined in their own paragraphs using Markdown's reference link syntax:
+
+[@tag:deep-review]: doi:10.1098/rsif.2017.0387
+
+## Referencing figures, tables, equations
+
+Figure @fig:square-image
+
+Figure @fig:wide-image
+
+Figure @fig:tall-image
+
+Figure @fig:vector-image
+
+Table @tbl:bowling-scores
+
+Equation @eq:regular-equation
+
+Equation @eq:long-equation
+
+## Quotes and code
+
+> Quoted text
+
+> Quoted block of text
+>
+> Two roads diverged in a wood, and I—  
+> I took the one less traveled by,  
+> And that has made all the difference.
+
+Code `in the middle` of normal text, aka `inline code`.
+
+Code block with Python syntax highlighting:
+
+```python
+from manubot.cite.doi import expand_short_doi
+
+def test_expand_short_doi():
+    doi = expand_short_doi("10/c3bp")
+    # a string too long to fit within page:
+    assert doi == "10.25313/2524-2695-2018-3-vliyanie-enhansera-copia-i-insulyatora-gypsy-na-sintez-ernk-modifikatsii-hromatina-i-svyazyvanie-insulyatornyh-belkov-vtransfetsirovannyh-geneticheskih-konstruktsiyah"
+```
+
+Code block with no syntax highlighting:
+
+```
+Exporting HTML manuscript
+Exporting DOCX manuscript
+Exporting PDF manuscript
+```
+
+## Figures
+
+![
+**A square image at actual size and with a bottom caption.**
+Loaded from the latest version of image on GitHub.
+](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/square.png "Square image"){#fig:square-image}
+
+![
+**An image too wide to fit within page at full size.**
+Loaded from a specific (hashed) version of the image on GitHub.
+](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/wide.png "Wide image"){#fig:wide-image}
+
+![
+**A tall image with a specified height.**
+Loaded from a specific (hashed) version of the image on GitHub.
+](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/tall.png "Tall image"){#fig:tall-image height=3in}
+
+![
+**A vector `.svg` image loaded from GitHub.**
+The parameter `sanitize=true` is necessary to properly load SVGs hosted via GitHub URLs.
+White background specified to serve as a backdrop for transparent sections of the image.
+](https://raw.githubusercontent.com/manubot/resources/master/test/vector.svg?sanitize=true "Vector image"){#fig:vector-image height=2.5in .white}
+
+## Tables
+
+| *Bowling Scores* | Jane          | John          | Alice         | Bob           |
+|:-----------------|:-------------:|:-------------:|:-------------:|:-------------:|
+| Game 1 | 150 | 187 | 210 | 105 |
+| Game 2 |  98 | 202 | 197 | 102 |
+| Game 3 | 123 | 180 | 238 | 134 |
+
+Table: A table with a top caption and specified relative column widths.
+{#tbl:bowling-scores}
+
+|         | Digits 1-33                        | Digits 34-66                      | Digits 67-99                      | Ref.                                                        |
+|:--------|:-----------------------------------|:----------------------------------|:----------------------------------|:------------------------------------------------------------|
+| pi      | 3.14159265358979323846264338327950 | 288419716939937510582097494459230 | 781640628620899862803482534211706 | [`piday.org`](https://www.piday.org/million/)               |
+| e       | 2.71828182845904523536028747135266 | 249775724709369995957496696762772 | 407663035354759457138217852516642 | [`nasa.gov`](https://apod.nasa.gov/htmltest/gifcity/e.2mil) |
+
+Table: A table too wide to fit within page.
+{#tbl:constant-digits}
+
+|          | **Colors** <!-- $colspan="2" --> |                      |
+|:--------:|:--------------------------------:|:--------------------:|
+| **Size** | **Text Color**                   | **Background Color** |
+| big      | blue                             | orange               |
+| small    | black                            | white                |
+
+Table: A table with merged cells using the `attributes` plugin.
+{#tbl: merged-cells}
+
+## Equations
+
+A LaTeX equation:
+
+$$\int_0^\infty e^{-x^2} dx=\frac{\sqrt{\pi}}{2}$$ {#eq:regular-equation}
+
+An equation too long to fit within page:
+
+$$x = a + b + c + d + e + f + g + h + i + j + k + l + m + n + o + p + q + r + s + t + u + v + w + x + y + z + 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9$$ {#eq:long-equation}
+
+## Special
+
+<i class="fas fa-exclamation-triangle"></i> [WARNING]{.semibold} _The following features are only supported and intended for `.html` and `.pdf` exports._
+_Journals are not likely to support them, and they may not display correctly when converted to other formats such as `.docx`._
+
+[Link styled as a button](https://manubot.org "Manubot Homepage"){.button}
+
+Adding arbitrary HTML attributes to an element using Pandoc's attribute syntax:
+
+::: {#some_id_1 .some_class style="background: #ad1457; color: white; margin-left: 40px;" title="a paragraph of text" data-color="white" disabled="true"}
+Manubot Manubot Manubot Manubot Manubot.
+Manubot Manubot Manubot Manubot.
+Manubot Manubot Manubot.
+Manubot Manubot.
+Manubot.
+:::
+
+Adding arbitrary HTML attributes to an element with the Manubot `attributes` plugin (more flexible than Pandoc's method in terms of which elements you can add attributes to):
+
+Manubot Manubot Manubot Manubot Manubot.
+Manubot Manubot Manubot Manubot.
+Manubot Manubot Manubot.
+Manubot Manubot.
+Manubot.
+<!-- $id="element_id" class="some_class" $style="color: #ad1457; margin-left: 40px;" $disabled="true" $title="a paragraph of text" $data-color="red" -->
+
+Available background colors for text, images, code, banners, etc:  
+
+`white`{.white}
+`lightgrey`{.lightgrey}
+`grey`{.grey}
+`darkgrey`{.darkgrey}
+`black`{.black}
+`lightred`{.lightred}
+`lightyellow`{.lightyellow}
+`lightgreen`{.lightgreen}
+`lightblue`{.lightblue}
+`lightpurple`{.lightpurple}
+`red`{.red}
+`orange`{.orange}
+`yellow`{.yellow}
+`green`{.green}
+`blue`{.blue}
+`purple`{.purple}
+
+Using the [Font Awesome](https://fontawesome.com/) icon set:
+
+<!-- include the Font Awesome library, per: https://fontawesome.com/start -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
+
+<i class="fas fa-check"></i> <i class="fas fa-question"></i> <i class="fas fa-star"></i> <i class="fas fa-bell"></i> <i class="fas fa-times-circle"></i> <i class="fas fa-ellipsis-h"></i>
+
+[
+<i class="fas fa-scroll fa-lg"></i> **Light Grey Banner**<br>
+useful for *general information* - [manubot.org](https://manubot.org/)
+]{.banner .lightgrey}
+
+[
+<i class="fas fa-info-circle fa-lg"></i> **Blue Banner**<br>
+useful for *important information* - [manubot.org](https://manubot.org/)
+]{.banner .lightblue}
+
+[
+<i class="fas fa-ban fa-lg"></i> **Light Red Banner**<br>
+useful for *warnings* - [manubot.org](https://manubot.org/)
+]{.banner .lightred}
 
 
 ## Illusion visuelle et hallucinations
@@ -104,18 +390,18 @@ En particulier, l’anatomie de notre cerveau induit des délais temporels et no
 
 [
 <i class="fas fa-ban fa-lg"></i>
-Avant d’essayer de donner une réponse à ces questions, rappelons une contrainte fondamentale à laquelle notre cerveau est confronté : l’environnement et dynamique et notre cerveau est (relativement) lent pour traiter ces informations. En effet les travaux de Simon Thorpe à Toulouse au Cerco ont montré des capacités ultra-rapide de catégorisation d’image chez les primates. Cette vitesse peut atteindre environ 100 ms chez l’humain [@QstYfgqz] et 80 ms chez le singe. C’est remarquablement rapide mais relativement long si l'on considère cette fois-ci une tâche simple d’interception d’un objet en mouvement. Considérons par exemple un agent qui suit une balle de tennis lancée à une vitesse de 20 m/s à une distance de 1 m devant son regard. Au moment de passer dans l’axe de vision du joueur de tennis, la balle va être perçue en arrière de la trajectoire à cause du délai sensoriel. Plus précisément la balle est placée à l’instant où l’image est prise à environ 45° d’angle visuel en retard sur la position réelle actuelle de la balle. À noter que la position de la balle est sur l’axe de vision (telle celle figurée par cette position des yeux), mais que pour le système sensoriel, cette position au temps présent doit être anticipée. Notons aussi que la position de la balle, dans cette représentation rétinienne, au moment où l’action sera réalisée (après le délai sensorimoteur total) pourra être estimée à partir de la continuité du mouvement de la balle. C’est-à-dire qu’elle sera encore environ à 45° d’angle visuel mais cette fois-là en avant de la trajectoire, dans son futur. Il semble incroyable que ce genre de voyage dans le temps puisse s’opérer dans notre cerveau, mais une simple illusion visuelle permet de mettre ces mécanismes en évidence.
+Avant d’essayer de donner une réponse à ces questions, rappelons une contrainte fondamentale à laquelle notre cerveau est confronté : l’environnement et dynamique et notre cerveau est (relativement) lent pour traiter ces informations. En effet les travaux de Simon Thorpe à Toulouse au Cerco ont montré des capacités ultra-rapide de catégorisation d’image chez les primates. Cette vitesse peut atteindre environ 100 ms chez l’humain [@tag:Kirchner06] et 80 ms chez le singe. C’est remarquablement rapide mais relativement long si l'on considère cette fois-ci une tâche simple d’interception d’un objet en mouvement. Considérons par exemple un agent qui suit une balle de tennis lancée à une vitesse de 20 m/s à une distance de 1 m devant son regard. Au moment de passer dans l’axe de vision du joueur de tennis, la balle va être perçue en arrière de la trajectoire à cause du délai sensoriel. Plus précisément la balle est placée à l’instant où l’image est prise à environ 45° d’angle visuel en retard sur la position réelle actuelle de la balle. À noter que la position de la balle est sur l’axe de vision (telle celle figurée par cette position des yeux), mais que pour le système sensoriel, cette position au temps présent doit être anticipée. Notons aussi que la position de la balle, dans cette représentation rétinienne, au moment où l’action sera réalisée (après le délai sensorimoteur total) pourra être estimée à partir de la continuité du mouvement de la balle. C’est-à-dire qu’elle sera encore environ à 45° d’angle visuel mais cette fois-là en avant de la trajectoire, dans son futur. Il semble incroyable que ce genre de voyage dans le temps puisse s’opérer dans notre cerveau, mais une simple illusion visuelle permet de mettre ces mécanismes en évidence.
 
 <!-- ![**Illusion du flash retardé** Au moment de l'apparition du flash vert, le point rouge est-)il placé à sa gauche ou à sa droite?](https://raw.githubusercontent.com/laurentperrinet/2019-04-18_JNLF/master/figures/flash_lag.mp4 "FLE"){#fig:fle width=85% .white} -->
 
-[<i class="fas fa-ban fa-lg"></i> En particulier, [l’illusion du flash retardé](https://en.wikipedia.org/wiki/Flash_lag_illusion) ("Flash Lag Effect" en anglais) permet de mettre en évidence des dynamiques de traitement dans le système visuel. Dans cette illusion, l’observateur doit fixer environ au centre de l’écran. Une cible en mouvement horizontal apparaît et quand elle passe aux environs du centre de l’écran, un bref flash est présenté immédiatement au-dessous du centre de l'image. Perceptivement, on observe chez une vaste majorité d’observateurs que la cible en mouvement est perçue, au moment du flash, *en avant* de la trajectoire. L’hypothèse originale de Romi Nijhawan propose que la cible est perceptivement représentée de telle façon à ce qu’elle occupe sa position au temps présent, donc de manière anticipée. Par contre, le flash est imprévu et sa position ne peut pas être anticipée. C’est ce que nous avons montré dans ce travail de modélisation qui montre une évaluation quantitative des productions d’un tel modèle [@1BSbXPPDF].]{.banner .lightred}
+[<i class="fas fa-ban fa-lg"></i> En particulier, [l’illusion du flash retardé](https://en.wikipedia.org/wiki/Flash_lag_illusion) ("Flash Lag Effect" en anglais) permet de mettre en évidence des dynamiques de traitement dans le système visuel. Dans cette illusion, l’observateur doit fixer environ au centre de l’écran. Une cible en mouvement horizontal apparaît et quand elle passe aux environs du centre de l’écran, un bref flash est présenté immédiatement au-dessous du centre de l'image. Perceptivement, on observe chez une vaste majorité d’observateurs que la cible en mouvement est perçue, au moment du flash, *en avant* de la trajectoire. L’hypothèse originale de Romi Nijhawan propose que la cible est perceptivement représentée de telle façon à ce qu’elle occupe sa position au temps présent, donc de manière anticipée. Par contre, le flash est imprévu et sa position ne peut pas être anticipée. C’est ce que nous avons montré dans ce travail de modélisation qui montre une évaluation quantitative des productions d’un tel modèle [@tag:KhoeiMassonPerrinet17].]{.banner .lightred}
 
 Plus généralement, ce travail nous a conduit à émettre l’hypothèse que le cerveau utilise les régularités statistiques du monde pour arriver d’une façon ou d’une autre à compenser les contraintes de délai et par exemple à « prédire le présent ». Une telle hypothèse permet de formaliser un bon nombre d’illusions et en particulier l’illusion de Hering que nous avons défini ci-dessus. En effet, les lignes fuyantes donnent un contexte de perspective et induisent un mouvement écologiquement significatif, comme une marche vers le point de fuite. À ce titre, les courbes horizontales de la figure de Hering sont le plus probablement perpendiculaires à l’axe de vision et à celui de la marche. Au niveau perceptif, elles sont donc placées à des distances différentes de l’œil et sont alors anticipées dans l’espace rétinien de telle sorte à ce que leur position est prédite à l’instant présent, d’où la forme bombée caractéristique de la perception dans cette illusion. Une extension de cette hypothèse est que le cerveau construit par des processus prédictifs une image mentale de la scène visuelle. Une telle hypothèse permet de développer un formalisme théorique complet qui peut être validé quantitativement vis-à-vis de notre compréhension actuelle du cerveau.
 ]{.banner .lightred}
 
-Cette théorie a été formalisée par le professeur Karl Friston [@pnsTp4JV] sous le terme de principe de minimisation de l’énergie libre. À ce jour, c'est le seul paradigme théorique qui soit aussi complet pour expliquer le fonctionnement global du cerveau. Sans rentrer dans les détails mathématiques de ce principe, cette théorie permet de formaliser des modèles génératifs pour toute sensation qui est reçue par nos organes et de considérer une représentation interne comme un état dit caché, c’est-à-dire un état ou une [représentation interne que l’on va essayer d’estimer](https://www.nature.com/articles/nrn2787). L'ensemble de ces hypothèses définit un système dont on déduit ensuite une variable globale dite d’énergie libre, qui donne une borne supérieure à la surprise de l’agent connaissant un modèle génératif, des sensations, des états internes et des actions effectuées. L’agent peut alors minimiser cette variable propre pour prédire au mieux son état, comme la position d’une cible. On peut aussi considérer un agent qui puisse agir sur cet environnement et on parle alors d’inférence active. En utilisant cette formalisation, il est alors possible de l’exprimer sous forme d’équations qui reprennent la structure du passage d’information dans le graphe formé par les différentes régions cérébrales. Depuis les aires sensorielles comme la rétine aux aires associatives comme celles qui forment les voies visuelles jusqu’aux aires cérébrales regroupant les motoneurones qui vont permettre de générer une action motrice et un comportement.
+Cette théorie a été formalisée par le professeur Karl Friston [@tag:Friston12] sous le terme de principe de minimisation de l’énergie libre. À ce jour, c'est le seul paradigme théorique qui soit aussi complet pour expliquer le fonctionnement global du cerveau. Sans rentrer dans les détails mathématiques de ce principe, cette théorie permet de formaliser des modèles génératifs pour toute sensation qui est reçue par nos organes et de considérer une représentation interne comme un état dit caché, c’est-à-dire un état ou une [représentation interne que l’on va essayer d’estimer](https://www.nature.com/articles/nrn2787). L'ensemble de ces hypothèses définit un système dont on déduit ensuite une variable globale dite d’énergie libre, qui donne une borne supérieure à la surprise de l’agent connaissant un modèle génératif, des sensations, des états internes et des actions effectuées. L’agent peut alors minimiser cette variable propre pour prédire au mieux son état, comme la position d’une cible. On peut aussi considérer un agent qui puisse agir sur cet environnement et on parle alors d’inférence active. En utilisant cette formalisation, il est alors possible de l’exprimer sous forme d’équations qui reprennent la structure du passage d’information dans le graphe formé par les différentes régions cérébrales. Depuis les aires sensorielles comme la rétine aux aires associatives comme celles qui forment les voies visuelles jusqu’aux aires cérébrales regroupant les motoneurones qui vont permettre de générer une action motrice et un comportement.
 
-Nous avons contribué avec Rick Adams et Karl Friston à l’application de ce principe pour expliquer des différences entre des patients typiques et des schizophrènes. En se focalisant sur les mouvements des yeux, nous avons démontré que ce paradigme permet d’expliquer les différences dans les mouvements dit de poursuites lente [@hQTLOkzF]. Il est alors remarquable d’observer en perturbant dans le modèle les gains synaptiques des voies descendantes, c’est-à-dire celle qui permet d’affiner le modèle interne de représentation du monde, ont répliqué des caractéristiques comportementales des patients schizophrènes. En particulier, ces mouvements sont expliqués dans ce modèle comme une forme de « délusion », qui consiste à accorder un poids relatif exagéré aux croyances représentées par le cerveau par rapport à celle apportées par les sens. Cette approche est actuellement étendue par le docteur Richard Adams afin d’apporter à terme des solutions thérapeutiques et une meilleure compréhension de pathologies comme la schizophrénie.
+Nous avons contribué avec Rick Adams et Karl Friston à l’application de ce principe pour expliquer des différences entre des patients typiques et des schizophrènes. En se focalisant sur les mouvements des yeux, nous avons démontré que ce paradigme permet d’expliquer les différences dans les mouvements dit de poursuites lente [@tag:Adams12]. Il est alors remarquable d’observer en perturbant dans le modèle les gains synaptiques des voies descendantes, c’est-à-dire celle qui permet d’affiner le modèle interne de représentation du monde, ont répliqué des caractéristiques comportementales des patients schizophrènes. En particulier, ces mouvements sont expliqués dans ce modèle comme une forme de « délusion », qui consiste à accorder un poids relatif exagéré aux croyances représentées par le cerveau par rapport à celle apportées par les sens. Cette approche est actuellement étendue par le docteur Richard Adams afin d’apporter à terme des solutions thérapeutiques et une meilleure compréhension de pathologies comme la schizophrénie.
 
 
 ## Illusions et des hallucinations
@@ -124,7 +410,7 @@ Nous avons contribué avec Rick Adams et Karl Friston à l’application de ce p
 
 ![**Les serpents qui tournoient** Cette illusion crée par le professeur [Akiyoshi Kitaoka](http://www.ritsumei.ac.jp/~akitaoka/index-e.html) induit des hallucinations de mouvements dans une image qui n'en contient pas.](https://raw.githubusercontent.com/laurentperrinet/2019-04-18_JNLF/master/figures/42_rotsnakes_main.jpg "Rotating snakes"){#fig:snake width=85% .white}
 
-Une hypothèse novatrice proposée par Paul Bressloff et ses collègues en 2002 [@1FZ2hkaS5] est de voir l’origine de certaines illusions ou d’hallucinations dans l’interaction entre structures du cerveau avec la représentation de l’espace visuel sur la surface de notre cortex visuel primaire, la partie de notre cerveau qui représente les éléments les plus simples de l’image visuelle. Cette carte corticale représente notamment des bords élémentaires en privilégiant une résolution plus fine au centre du champ visuel. Ces auteurs ont analysé mathématiquement les états du système quand on perturbe certains paramètres du système, et notamment les interactions dans la carte corticale.
+Une hypothèse novatrice proposée par Paul Bressloff et ses collègues en 2002 [@tag:Bressloff02] est de voir l’origine de certaines illusions ou d’hallucinations dans l’interaction entre structures du cerveau avec la représentation de l’espace visuel sur la surface de notre cortex visuel primaire, la partie de notre cerveau qui représente les éléments les plus simples de l’image visuelle. Cette carte corticale représente notamment des bords élémentaires en privilégiant une résolution plus fine au centre du champ visuel. Ces auteurs ont analysé mathématiquement les états du système quand on perturbe certains paramètres du système, et notamment les interactions dans la carte corticale.
 
 Ils ont alors montré un point essentiel: à partir d’un certain seuil de prise de drogue, des «hallucinations» peuvent émerger comme des structures stables dans la carte corticale. Étonnamment, ces états peuvent être visualisés en les reprojetant sur l’espace visuel et ils dessinent alors des spirales et des ensembles de lignes qui sont très proches des hallucinations telles qu’elles ont été rapportées après la prise de drogues diverses allant de la marijuana au peyotl ou à la mescaline, voir Figure @fig:hallu. Ce type de modélisation permet d’un côté d’expliquer la formation d’hallucinations, mais aussi de définir une «neuro-géométrie», c’est-à-dire un formalisme mathématique reliant neurosciences et la géométrie des relations existant entre des sous modules du cortex visuel primaire. On peut aussi imaginer alors des hallucinations plus complexes émerger de réseaux plus complexes qui représentent par exemple des superpositions de visages.
 
@@ -132,14 +418,9 @@ Ils ont alors montré un point essentiel: à partir d’un certain seuil de pris
 
 [<i class="fas fa-ban fa-lg"></i> Pour aller plus loin ...]{.banner .lightred}
 
-Dans cette direction, peut-on étendre cette méthodologie à la dynamique présente dans certaines illusions, comme celle du « Point-Ligne » ? En effet, en présentant un simple point puis une ligne on induit une perception d’une expansion du point pour « remplir » la ligne (un mouvement dit Phi). L’originalité de l’étude de Jancke et collègues est d'utiliser une technique d’imagerie qui permet d’enregistrer l’activité sur le cortex visuel primaire (ici du chat anesthésié) lors de la présentation de cette illusion d’optique. À noter qu’en comparant l’activité produite par les deux éléments présentés séparément ou conjointement, on met en évidence une activité différentielle qui est caractéristique de la perception de cette illusion. Une même  méthodologie permet de mettre en évidence un mécanisme original. Pour cela on utilise cette fois une illusion encore plus simple qui consiste à montrer un point à une position de l’espace visuel puis un autre point exactement similaire mais à une distance proche (mais supérieure à la taille de ce point). On perçoit alors un et un seul point qui se déplace de la première à la seconde position. Au niveau des enregistrements (cette fois chez le macaque) la réponse différentielle montre que relativement à un traitement indépendant des deux points, il existe une vague d’activité qui se déplace sur le cortex qui en particulier supprime une partie de l’activité [@cAAUyqwj]. Une modélisation sur ordinateur a permis de montrer qu'une fonction de cette vague de suppression est de lever les ambiguïtés sur les différents mouvements possibles représentés sur la carte. Dans ce cas particulier, la vague permet de supprimer la représentation d’un mouvement dans le sens, voir Figure @fig:chemla. Toutefois, beaucoup de questions restent en suspens. Ces résultats montrent le rôle potentiel des vagues d’activité sur la surface du cortex comme un outil potentiel de traitement de l’information et de sa modulation [@9OxNsfYF]. Ces vagues peuvent en effet induire facilitations ou suppressions dans l'espace et le temps et produire une forme de « calcul » pour représenter au mieux l’image visuelle.
+Dans cette direction, peut-on étendre cette méthodologie à la dynamique présente dans certaines illusions, comme celle du « Point-Ligne » ? En effet, en présentant un simple point puis une ligne on induit une perception d’une expansion du point pour « remplir » la ligne (un mouvement dit Phi). L’originalité de l’étude de Jancke et collègues est d'utiliser une technique d’imagerie qui permet d’enregistrer l’activité sur le cortex visuel primaire (ici du chat anesthésié) lors de la présentation de cette illusion d’optique. À noter qu’en comparant l’activité produite par les deux éléments présentés séparément ou conjointement, on met en évidence une activité différentielle qui est caractéristique de la perception de cette illusion. Une même  méthodologie permet de mettre en évidence un mécanisme original. Pour cela on utilise cette fois une illusion encore plus simple qui consiste à montrer un point à une position de l’espace visuel puis un autre point exactement similaire mais à une distance proche (mais supérieure à la taille de ce point). On perçoit alors un et un seul point qui se déplace de la première à la seconde position. Au niveau des enregistrements (cette fois chez le macaque) la réponse différentielle montre que relativement à un traitement indépendant des deux points, il existe une vague d’activité qui se déplace sur le cortex qui en particulier supprime une partie de l’activité [@tag:Chemla19]. Une modélisation sur ordinateur a permis de montrer qu'une fonction de cette vague de suppression est de lever les ambiguïtés sur les différents mouvements possibles représentés sur la carte. Dans ce cas particulier, la vague permet de supprimer la représentation d’un mouvement dans le sens, voir Figure @fig:chemla. Toutefois, beaucoup de questions restent en suspens. Ces résultats montrent le rôle potentiel des vagues d’activité sur la surface du cortex comme un outil potentiel de traitement de l’information et de sa modulation [@tag:Muller18]. Ces vagues peuvent en effet induire facilitations ou suppressions dans l'espace et le temps et produire une forme de « calcul » pour représenter au mieux l’image visuelle.
 
 ![**Vagues corticales** Des vagues de propagation détectées sur la surface du cortex semblent avoir un rôle fonctionnel pour représenter des informations visuelles.](https://raw.githubusercontent.com/laurentperrinet/2019-04-18_JNLF/master/figures/Chemla_etal2019.png "Halucination"){#fig:chemla width=85% .white}
-
-
-## Conclusion
-
-Pour conclure, les illusions et hallucinations nous ouvrent une porte sur les possibilités de la perception mais aussi sur une compréhension des mécanismes cérébraux qui les induisent. La modélisation, notamment celle que nous proposons, offre une opportunité nouvelle d’appréhender ces mécanismes. Les outils théoriques permettant de progresser dans cette voie de recherche existent mais ne sont pas pour le moment exploités à leur plein potentiel. Ils seront essentiels pour une meilleure compréhension des illusions visuelles, des hallucinations et de ce qui peut la provoquer, mais aussi du cerveau en général.
 
 
 ## Remerciements
@@ -150,3 +431,22 @@ Mes remerciements à [Aline Richard Zivohlava](https://theconversation.com/profi
 
 <!-- Explicitly insert bibliography here -->
 <div id="refs"></div>
+
+
+## Conclusion
+
+Pour conclure, les illusions et hallucinations nous ouvrent une porte sur les possibilités de la perception mais aussi sur une compréhension des mécanismes cérébraux qui les induisent. La modélisation, notamment celle que nous proposons, offre une opportunité nouvelle d’appréhender ces mécanismes. Les outils théoriques permettant de progresser dans cette voie de recherche existent mais ne sont pas pour le moment exploités à leur plein potentiel. Ils seront essentiels pour une meilleure compréhension des illusions visuelles, des hallucinations et de ce qui peut la provoquer, mais aussi du cerveau en général.
+
+
+
+[@tag:Boutin19]: arxiv:1902.07651
+[@tag:Changizi08]: doi:10.1080/03640210802035191
+[@tag:Kirchner06]: doi:10.1016/j.visres.2005.10.002
+[@tag:Chemla19]: doi:10.1523/JNEUROSCI.2792-18.2019
+[@tag:Adams12]: doi:10.1371/journal.pone.0047502
+[@tag:Friston12]: doi:10.3389/fpsyg.2012.00151
+[@tag:PerrinetAdamsFriston14]: doi:10.1007/s00422-014-0620-8
+[@tag:Muller18]: doi:10.1038/nrn.2018.20
+[@tag:Nijhawan02]: pmid:12200181
+[@tag:KhoeiMassonPerrinet17]: doi:10.1371/journal.pcbi.1005068
+[@tag:Bressloff02]: doi:10.1098/rstb.2000.0769

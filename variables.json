@@ -1,39 +1,80 @@
 {
-  "date": "September 16, 2019",
-  "authors": [
-    {
-      "github": "laurentperrinet",
-      "name": "Laurent U Perrinet",
-      "initials": "LuP",
-      "orcid": "0000-0002-9536-010X",
-      "twitter": "laurentperrinet",
-      "email": "laurent.perrinet@univ-amu.fr",
-      "affiliations": [
-        "Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Universit\u00e9"
-      ],
-      "funders": "ANR project \"Horizontal-V1\" N\u00b0ANR-17-CE37-0006.",
-      "affiliation_numbers": [
-        1
-      ]
-    }
-  ],
-  "affiliations": [
-    {
-      "affiliation": "Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Universit\u00e9",
-      "affiliation_number": 1
-    }
-  ],
-  "ci_source": {
-    "repo_slug": "laurentperrinet/2019-05_illusions-visuelles",
-    "repo_owner": "laurentperrinet",
-    "repo_name": "2019-05_illusions-visuelles",
-    "commit": "57637d4671b33c4a07dec52deea29cebdc69c8d0"
+  "pandoc": {
+    "title": "Des illusions visuelles aux hallucinations: une porte sur la perception",
+    "keywords": [
+      "Perception visuelle",
+      "Illusions visuelles",
+      "Hallucinations visuelles",
+      "Modélisation neurale"
+    ],
+    "lang": "fr-FR",
+    "date-meta": "2020-04-29",
+    "author-meta": [
+      "Laurent U Perrinet"
+    ],
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Des illusions visuelles aux hallucinations: une porte sur la perception\" />\n<meta name=\"citation_title\" content=\"Des illusions visuelles aux hallucinations: une porte sur la perception\" />\n<meta property=\"og:title\" content=\"Des illusions visuelles aux hallucinations: une porte sur la perception\" />\n<meta property=\"twitter:title\" content=\"Des illusions visuelles aux hallucinations: une porte sur la perception\" />\n<meta name=\"dc.date\" content=\"2020-04-29\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-29\" />\n<meta name=\"dc.language\" content=\"fr-FR\" />\n<meta name=\"citation_language\" content=\"fr-FR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Laurent U Perrinet\" />\n<meta name=\"citation_author_institution\" content=\"Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-9536-010X\" />\n<meta name=\"twitter:creator\" content=\"@laurentperrinet\" />\n<link rel=\"canonical\" href=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/\" />\n<meta property=\"og:url\" content=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/\" />\n<meta property=\"twitter:url\" content=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/\" />\n<meta name=\"citation_pdf_url\" content=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/52441ec2b4799b8f098e2cd196f13f8afd1dc159/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/52441ec2b4799b8f098e2cd196f13f8afd1dc159/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/52441ec2b4799b8f098e2cd196f13f8afd1dc159/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<meta property=\"og:image\" content=\"https://github.com/laurentperrinet/2019-05_illusions-visuelles/raw/52441ec2b4799b8f098e2cd196f13f8afd1dc159/thumbnail.png\" />\n<meta property=\"twitter:image\" content=\"https://github.com/laurentperrinet/2019-05_illusions-visuelles/raw/52441ec2b4799b8f098e2cd196f13f8afd1dc159/thumbnail.png\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "bibliography": [
+      "content/manual-references.json"
+    ],
+    "manubot-output-bibliography": "output/references.json",
+    "manubot-output-citekeys": "output/citations.tsv",
+    "manubot-requests-cache-path": "ci/cache/requests-cache",
+    "manubot-clear-requests-cache": false
   },
-  "manuscript_stats": {
-    "reference_counts": {
-      "doi": 7,
-      "total": 7
+  "manubot": {
+    "date": "April 29, 2020",
+    "authors": [
+      {
+        "github": "laurentperrinet",
+        "name": "Laurent U Perrinet",
+        "initials": "LuP",
+        "orcid": "0000-0002-9536-010X",
+        "twitter": "laurentperrinet",
+        "email": "laurent.perrinet@univ-amu.fr",
+        "affiliations": [
+          "Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université"
+        ],
+        "funders": [
+          "ANR project \"Horizontal-V1\" N°ANR-17-CE37-0006."
+        ],
+        "affiliation_numbers": [
+          1
+        ]
+      }
+    ],
+    "affiliations": [
+      {
+        "affiliation": "Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université",
+        "affiliation_number": 1
+      }
+    ],
+    "ci_source": {
+      "provider": "github",
+      "repo_slug": "laurentperrinet/2019-05_illusions-visuelles",
+      "repo_owner": "laurentperrinet",
+      "repo_name": "2019-05_illusions-visuelles",
+      "commit": "52441ec2b4799b8f098e2cd196f13f8afd1dc159",
+      "triggering_commit": "52441ec2b4799b8f098e2cd196f13f8afd1dc159",
+      "build_url": "https://github.com/laurentperrinet/2019-05_illusions-visuelles/commit/52441ec2b4799b8f098e2cd196f13f8afd1dc159/checks",
+      "job_url": "https://github.com/laurentperrinet/2019-05_illusions-visuelles/runs/run2"
     },
-    "word_count": 3322
-  }
+    "html_url": "https://laurentperrinet.github.io/2019-05_illusions-visuelles/",
+    "pdf_url": "https://laurentperrinet.github.io/2019-05_illusions-visuelles/manuscript.pdf",
+    "html_url_versioned": "https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/52441ec2b4799b8f098e2cd196f13f8afd1dc159/",
+    "pdf_url_versioned": "https://laurentperrinet.github.io/2019-05_illusions-visuelles/v/52441ec2b4799b8f098e2cd196f13f8afd1dc159/manuscript.pdf",
+    "manubot_version": "0.3.1",
+    "rootstock_commit": "2c2868957798937f5203248bdfb9e414c8fd0ad1",
+    "thumbnail_url": "https://github.com/laurentperrinet/2019-05_illusions-visuelles/raw/52441ec2b4799b8f098e2cd196f13f8afd1dc159/thumbnail.png",
+    "manuscript_stats": {
+      "word_count": 4510
+    }
+  },
+  "subject": "neurosciences, psychiatrie, psychologie, cerveau",
+  "description": "Article de dissémination sur la perception visuelle, vue à travers illusions et hallucinations.",
+  "category": "review",
+  "papersize": "a4",
+  "thanks": "L'auteur voudrait remercier [Aline Richard Zivohlava](https://theconversation.com/profiles/aline-richard-zivohlava-189434) pour les (nombreuses!) corrections apportées à ce texte.",
+  "website": "https://laurentperrinet.github.io/2019-05_illusions-visuelles/",
+  "source": "https://github.com/laurentperrinet/2019-05_illusions-visuelles",
+  "summary": "Les objectifs sont : – mieux comprendre la fonction de la perception visuelle en explorant certaines limites ; – mieux comprendre l’importance de l’aspect dynamique de la perception ; – mieux comprendre le rôle de l’action dans la perception."
 }
