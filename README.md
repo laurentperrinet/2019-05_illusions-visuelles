@@ -1,8 +1,7 @@
 # Des illusions aux hallucinations visuelles: une porte sur la perception
 
- * https://laurentperrinet.github.io/2019-05_illusions-visuelles/
- * https://laurentperrinet.github.io/post/2019-06-06-theconversation/
- 
+Check-out the [manuscript](https://laurentperrinet.github.io/2019-05_illusions-visuelles/) and author's [website](https://laurentperrinet.github.io/post/2019-06-06-theconversation/).
+
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://manubot.github.io/rootstock/)
