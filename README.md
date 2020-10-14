@@ -8,6 +8,7 @@ Check-out the [manuscript](https://laurentperrinet.github.io/2019-05_illusions-v
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://manubot.github.io/rootstock/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/manubot/rootstock/workflows/Manubot/badge.svg)](https://github.com/manubot/rootstock/actions)
 [![Travis Build Status](https://travis-ci.com/manubot/rootstock.svg?branch=master)](https://travis-ci.com/manubot/rootstock)
+[![DOI](https://zenodo.org/badge/183608594.svg)](https://zenodo.org/badge/latestdoi/183608594)
 <!-- usage note: delete CI badges above for services not used by your manuscript -->
 
 ## Manuscript description
