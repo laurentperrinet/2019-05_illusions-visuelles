@@ -49,14 +49,14 @@
       }
     ],
     "ci_source": {
-      "provider": "travis",
+      "provider": "github",
       "repo_slug": "laurentperrinet/2019-05_illusions-visuelles",
       "repo_owner": "laurentperrinet",
       "repo_name": "2019-05_illusions-visuelles",
       "commit": "0810d039cf66b0ee333a201e21d852ffe55c473d",
       "triggering_commit": "0810d039cf66b0ee333a201e21d852ffe55c473d",
-      "build_url": "https://travis-ci.com/laurentperrinet/2019-05_illusions-visuelles/builds/189916839",
-      "job_url": "https://travis-ci.com/laurentperrinet/2019-05_illusions-visuelles/jobs/399342326"
+      "build_url": "https://github.com/laurentperrinet/2019-05_illusions-visuelles/commit/0810d039cf66b0ee333a201e21d852ffe55c473d/checks",
+      "job_url": "https://github.com/laurentperrinet/2019-05_illusions-visuelles/runs/run2"
     },
     "html_url": "https://laurentperrinet.github.io/2019-05_illusions-visuelles/",
     "pdf_url": "https://laurentperrinet.github.io/2019-05_illusions-visuelles/manuscript.pdf",
